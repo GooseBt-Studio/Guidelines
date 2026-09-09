@@ -1,12 +1,14 @@
 ##### 6. BGM
 
-奥比岛手游有非常丰富的 BGM，一些 BGM 命名如下。
+奥比岛手游有非常丰富的 BGM，通过在解码后的 wav 目录下执行命令 ``tree /F > tree.txt``，可得到如下与 BGM 有关的信息。
 
 官服与各渠道服之间的 BGM 结构和内容基本一致。
 
-如有需要，在正确部署 ffmpeg 环境后执行命令 ``ffmpeg -i Accordion.wav -i Bass.wav -i Clarinet.wav -i Drum.wav -i Flute.wav -i Guitar.wav -i Piano.wav -i Str.wav -filter_complex "amix=inputs=8:duration=longest,loudnorm,volume=4" bee_speaker.wav`` 可将《野蜂飞舞》混响。
+如有需要，在正确部署 ffmpeg 环境后在 bee_speaker 目录下执行命令 ``ffmpeg -i Accordion.wav -i Bass.wav -i Clarinet.wav -i Drum.wav -i Flute.wav -i Guitar.wav -i Piano.wav -i Str.wav -filter_complex "amix=inputs=8:duration=longest,loudnorm,volume=4" bee_speaker.wav`` 可将《野蜂飞舞》混响。
 
 ```
+D:.
+│  tree.txt
 │  
 ├─4.7[0]
 │      4.7[0].txt
@@ -591,8 +593,8 @@
 │      amb_2d_1[0].txt
 │      amb_snow.wav
 │      biyeji.wav
-│      erlili_huazhan.wav
 │      hanghai.wav
+│      moyaoguo_guangchang.wav
 │      
 ├─amb_3d[0]
 │      amb_3d[0].txt
@@ -1012,11 +1014,13 @@
 ├─bee_speaker[0]
 │      Accordion.wav
 │      Bass.wav
+│      bee_speaker.wav
 │      bee_speaker[0].txt
 │      Clarinet.wav
 │      Drum.wav
 │      Flute.wav
 │      Guitar.wav
+│      mix.bat
 │      Piano.wav
 │      Str.wav
 │      
@@ -1969,10 +1973,15 @@
 │      zhifeiji.wav
 │      
 ├─event_7[0]
+│      beagle_1.wav
 │      cat_1.wav
 │      cat_2.wav
 │      cat_3.wav
 │      cat_4.wav
+│      danche_bell_1.wav
+│      danche_bell_2.wav
+│      danche_bell_3.wav
+│      danche_footstep.wav
 │      event_7[0].txt
 │      maomizuodian.wav
 │      marble_cast.wav
@@ -1982,6 +1991,7 @@
 │      marble_spring.wav
 │      marble_x1.wav
 │      marble_x3.wav
+│      moyaoguo.wav
 │      shanyaoliuxingchengbao_renbuqi.wav
 │      shanyaoliuxingchengbao_renqi.wav
 │      
@@ -2352,29 +2362,26 @@
 │      npc_hello_aila_04.wav
 │      npc_hello_aila_05.wav
 │      npc_hello_aila_101.wav
+│      npc_hello_aila_102.wav
 │      npc_hello_alasi_101.wav
 │      npc_hello_alasi_102.wav
+│      npc_hello_alasi_103.wav
 │      npc_hello_aoli_01.wav
 │      npc_hello_aoli_02.wav
 │      npc_hello_aoli_03.wav
 │      npc_hello_aoli_04.wav
 │      npc_hello_aoli_05.wav
-│      npc_hello_aoli_101.wav
-│      npc_hello_dahuzi_101.wav
-│      npc_hello_daixi_101.wav
 │      npc_hello_fenger_01.wav
 │      npc_hello_fenger_02.wav
 │      npc_hello_fenger_03.wav
 │      npc_hello_fenger_04.wav
 │      npc_hello_fenger_05.wav
-│      npc_hello_fenger_101.wav
 │      npc_hello_haila_01.wav
 │      npc_hello_haila_02.wav
 │      npc_hello_haila_03.wav
 │      npc_hello_haila_04.wav
 │      npc_hello_haila_05.wav
 │      npc_hello_haila_101.wav
-│      npc_hello_jinkuai_101.wav
 │      npc_hello_kasili_01.wav
 │      npc_hello_kasili_02.wav
 │      npc_hello_kasili_03.wav
@@ -2395,19 +2402,13 @@
 │      npc_hello_laiang_06.wav
 │      npc_hello_laiang_101.wav
 │      npc_hello_lizhen_101.wav
-│      npc_hello_lizhen_102.wav
 │      npc_hello_maguli_01.wav
 │      npc_hello_maguli_02.wav
 │      npc_hello_maguli_03.wav
 │      npc_hello_maguli_04.wav
 │      npc_hello_maguli_05.wav
-│      npc_hello_maguli_101.wav
-│      npc_hello_malu_101.wav
-│      npc_hello_malu_102.wav
 │      npc_hello_meier_101.wav
 │      npc_hello_meier_znq_1.wav
-│      npc_hello_modun_101.wav
-│      npc_hello_panpan_101.wav
 │      npc_hello_songsong_01.wav
 │      npc_hello_songsong_01_1.wav
 │      npc_hello_songsong_02.wav
@@ -2424,31 +2425,21 @@
 │      npc_hello_suoya_04.wav
 │      npc_hello_suoya_05.wav
 │      npc_hello_suoya_101.wav
-│      npc_hello_suoya_102.wav
 │      npc_hello_tianji_01.wav
 │      npc_hello_tianji_02.wav
 │      npc_hello_tianji_03.wav
 │      npc_hello_tianji_04.wav
 │      npc_hello_tianji_05.wav
-│      npc_hello_wayi_101.wav
 │      npc_hello_weikeduo_101.wav
-│      npc_hello_weikeduo_102.wav
 │      npc_hello_weilita_101.wav
-│      npc_hello_wendi_101.wav
 │      npc_hello_wendi_znq_1.wav
-│      npc_hello_xiaoye_101.wav
-│      npc_hello_xiaoye_102.wav
-│      npc_hello_xiaoye_103.wav
 │      npc_hello_xiaoye_znq_1.wav
 │      npc_hello_xide_01.wav
 │      npc_hello_xide_02.wav
 │      npc_hello_xide_03.wav
 │      npc_hello_xide_04.wav
 │      npc_hello_xide_05.wav
-│      npc_hello_xierda_101.wav
-│      npc_hello_xierda_102.wav
 │      npc_hello_xierda_znq_1.wav
-│      npc_hello_yexi_101.wav
 │      npc_hello_yien_01.wav
 │      npc_hello_yien_02.wav
 │      npc_hello_yien_03.wav
@@ -2457,6 +2448,10 @@
 │      
 ├─hello_guangchang[0]
 │      hello_guangchang[0].txt
+│      npc_hello_bigou_01.wav
+│      npc_hello_bigou_02.wav
+│      npc_hello_bigou_03.wav
+│      npc_hello_bigou_04.wav
 │      npc_hello_dahuzi_01.wav
 │      npc_hello_dahuzi_02.wav
 │      npc_hello_dahuzi_03.wav
@@ -2488,6 +2483,10 @@
 │      npc_hello_meier_03.wav
 │      npc_hello_meier_04.wav
 │      npc_hello_meier_05.wav
+│      npc_hello_quanermao_01.wav
+│      npc_hello_quanermao_02.wav
+│      npc_hello_quanermao_03.wav
+│      npc_hello_quanermao_04.wav
 │      npc_hello_wayi_01.wav
 │      npc_hello_wayi_02.wav
 │      npc_hello_wayi_03.wav
@@ -2898,9 +2897,10 @@
 │      music_19[0].txt
 │      
 ├─music_1[0]
+│      5.2.wav
 │      bgm_aquarium.wav
-│      bgm_island_day.wav
-│      bgm_island_night.wav
+│      bgm_island_day_autumn.wav
+│      bgm_island_night_autumn.wav
 │      bgm_room.wav
 │      fireworks_bomb_1.wav
 │      fireworks_bomb_2.wav
@@ -2912,7 +2912,6 @@
 │      fireworks_whistle_3.wav
 │      fireworks_whistle_4.wav
 │      music_1[0].txt
-│      undersea_island.wav
 │      
 ├─music_20[0]
 │      mug1.wav
@@ -7720,6 +7719,243 @@
 │      p3p9xn045.wav
 │      plot_03_09[0].txt
 │      
+├─plot_03_10[0]
+│      p3p10fpjm001.wav
+│      p3p10fpjm002.wav
+│      p3p10fpjm003.wav
+│      p3p10fpjm004.wav
+│      p3p10fpjm005.wav
+│      p3p10fpjm006.wav
+│      p3p10fpjm007.wav
+│      p3p10fpjm008.wav
+│      p3p10fpjm009.wav
+│      p3p10fpjm010.wav
+│      p3p10fpjm011.wav
+│      p3p10fpjm012.wav
+│      p3p10fpjm013.wav
+│      p3p10fpjm014.wav
+│      p3p10fpjm015.wav
+│      p3p10hgl001.wav
+│      p3p10hgl002.wav
+│      p3p10hgl003.wav
+│      p3p10hgl004.wav
+│      p3p10hgl005.wav
+│      p3p10hgl006.wav
+│      p3p10hgl007.wav
+│      p3p10hgl008.wav
+│      p3p10hgl009.wav
+│      p3p10hgl010.wav
+│      p3p10hgl011.wav
+│      p3p10hgl012.wav
+│      p3p10hgl013.wav
+│      p3p10hgl014.wav
+│      p3p10hgl015.wav
+│      p3p10hgl016.wav
+│      p3p10hgl017.wav
+│      p3p10hgl018.wav
+│      p3p10hgl019.wav
+│      p3p10hgl020.wav
+│      p3p10hgl021.wav
+│      p3p10hgl022.wav
+│      p3p10ln001.wav
+│      p3p10ln002.wav
+│      p3p10ln003.wav
+│      p3p10ln004.wav
+│      p3p10ln005.wav
+│      p3p10ln006.wav
+│      p3p10ln007.wav
+│      p3p10ln008.wav
+│      p3p10ln009.wav
+│      p3p10ln010.wav
+│      p3p10ln011.wav
+│      p3p10ln012.wav
+│      p3p10ln013.wav
+│      p3p10ln014.wav
+│      p3p10ln015.wav
+│      p3p10ln016.wav
+│      p3p10ln017.wav
+│      p3p10ln018.wav
+│      p3p10ln019.wav
+│      p3p10ln020.wav
+│      p3p10ln021.wav
+│      p3p10ln022.wav
+│      p3p10ln023.wav
+│      p3p10ln024.wav
+│      p3p10ln025.wav
+│      p3p10ln026.wav
+│      p3p10ln027.wav
+│      p3p10ln028.wav
+│      p3p10ln029.wav
+│      p3p10ln030.wav
+│      p3p10ln031.wav
+│      p3p10ln032.wav
+│      p3p10ln033.wav
+│      p3p10ln034.wav
+│      p3p10ln035.wav
+│      p3p10ln036.wav
+│      p3p10ln037.wav
+│      p3p10ln038.wav
+│      p3p10ln039.wav
+│      p3p10ln040.wav
+│      p3p10ln041.wav
+│      p3p10ln042.wav
+│      p3p10ln043.wav
+│      p3p10ln044.wav
+│      p3p10ln045.wav
+│      p3p10ln046.wav
+│      p3p10ln047.wav
+│      p3p10ln048.wav
+│      p3p10ln049.wav
+│      p3p10ln050.wav
+│      p3p10ln051.wav
+│      p3p10ln052.wav
+│      p3p10ln053.wav
+│      p3p10ln054.wav
+│      p3p10ln055.wav
+│      p3p10ln056.wav
+│      p3p10ln057.wav
+│      p3p10ln058.wav
+│      p3p10ln059.wav
+│      p3p10ln060.wav
+│      p3p10ln061.wav
+│      p3p10ln062.wav
+│      p3p10ln063.wav
+│      p3p10ln064.wav
+│      p3p10ln065.wav
+│      p3p10ln066.wav
+│      p3p10ln067.wav
+│      p3p10ln068.wav
+│      p3p10ln069.wav
+│      p3p10ln070.wav
+│      p3p10ln071.wav
+│      p3p10pingwei001.wav
+│      p3p10pingwei002.wav
+│      p3p10pingwei003.wav
+│      p3p10pingwei004.wav
+│      p3p10pingwei005.wav
+│      p3p10pingwei006.wav
+│      p3p10pingwei007.wav
+│      p3p10pingwei008.wav
+│      p3p10pingwei009.wav
+│      p3p10pingwei010.wav
+│      p3p10pingwei011.wav
+│      p3p10pingwei012.wav
+│      p3p10pingwei013.wav
+│      p3p10pingwei014.wav
+│      p3p10pingwei015.wav
+│      p3p10pingwei016.wav
+│      p3p10pingwei017.wav
+│      p3p10pingwei018.wav
+│      p3p10pingwei019.wav
+│      p3p10pingwei020.wav
+│      p3p10pingwei021.wav
+│      p3p10pingwei022.wav
+│      p3p10pingwei023.wav
+│      p3p10pingwei024.wav
+│      p3p10pingwei025.wav
+│      p3p10pingwei026.wav
+│      p3p10pingwei027.wav
+│      p3p10pingwei028.wav
+│      p3p10ssdb001.wav
+│      p3p10ssdb002.wav
+│      p3p10ssdb003.wav
+│      p3p10ssdb004.wav
+│      p3p10ssdb005.wav
+│      p3p10ssdb006.wav
+│      p3p10ssdb007.wav
+│      p3p10ssdb008.wav
+│      p3p10ssdb009.wav
+│      p3p10ssdb010.wav
+│      p3p10ssdb011.wav
+│      p3p10ssdb012.wav
+│      p3p10ssdb013.wav
+│      p3p10ssdb014.wav
+│      p3p10ssdb015.wav
+│      p3p10ssdb016.wav
+│      p3p10ssdb017.wav
+│      p3p10ssdb018.wav
+│      p3p10ssdb019.wav
+│      p3p10ssdb020.wav
+│      p3p10ssdb021.wav
+│      p3p10ssdb022.wav
+│      p3p10ssdb023.wav
+│      p3p10ssdb024.wav
+│      p3p10ssdb025.wav
+│      p3p10tiluo001.wav
+│      p3p10tiluo002.wav
+│      p3p10tiluo003.wav
+│      p3p10tiluo004.wav
+│      p3p10tiluo005.wav
+│      p3p10tiluo006.wav
+│      p3p10tiluo007.wav
+│      p3p10tiluo008.wav
+│      p3p10tiluo009.wav
+│      p3p10tiluo010.wav
+│      p3p10tiluo011.wav
+│      p3p10tx1001.wav
+│      p3p10tx1002.wav
+│      p3p10tx1003.wav
+│      p3p10tx1004.wav
+│      p3p10tx2001.wav
+│      p3p10tx2002.wav
+│      p3p10tx2003.wav
+│      p3p10tx2004.wav
+│      p3p10tx2005.wav
+│      p3p10tx2006.wav
+│      p3p10tx2007.wav
+│      p3p10tx2008.wav
+│      p3p10tx2009.wav
+│      p3p10tx2010.wav
+│      p3p10tx2011.wav
+│      p3p10tx2012.wav
+│      p3p10tx2013.wav
+│      p3p10tx2014.wav
+│      p3p10tx2015.wav
+│      p3p10tx2016.wav
+│      p3p10tx2017.wav
+│      p3p10tx2018.wav
+│      p3p10tx2019.wav
+│      p3p10tx2020.wav
+│      p3p10tx2021.wav
+│      p3p10tx2022.wav
+│      p3p10xiaonvhai001.wav
+│      p3p10xiaonvhai002.wav
+│      p3p10xiaonvhai003.wav
+│      p3p10xiaonvhai004.wav
+│      p3p10xiaonvhai005.wav
+│      p3p10xiaonvhai006.wav
+│      p3p10xiaonvhai007.wav
+│      p3p10xiaonvhai008.wav
+│      p3p10xiaonvhai009.wav
+│      p3p10xiaonvhai010.wav
+│      p3p10xiaonvhai011.wav
+│      p3p10xiaonvhai012.wav
+│      p3p10xiaonvhai013.wav
+│      p3p10xiaonvhai014.wav
+│      p3p10xiaonvhai015.wav
+│      p3p10xiaonvhai016.wav
+│      p3p10xiaonvhai017.wav
+│      p3p10xiaonvhai018.wav
+│      p3p10xiaonvhai019.wav
+│      p3p10xiaonvhai020.wav
+│      p3p10xiaonvhai021.wav
+│      p3p10xiaonvhai022.wav
+│      p3p10xiaonvhai023.wav
+│      p3p10xiaonvhai024.wav
+│      p3p10xiaonvhai025.wav
+│      p3p10xiaonvhai026.wav
+│      p3p10xiaonvhai027.wav
+│      p3p10xiaonvhai028.wav
+│      p3p10xiaonvhai029.wav
+│      p3p10xiaonvhai030.wav
+│      p3p10xiaonvhai031.wav
+│      p3p10xiaonvhai032.wav
+│      p3p10xiaonvhai033.wav
+│      p3p10xiaonvhai034.wav
+│      p3p10xiaonvhai035.wav
+│      p3p10xiaonvhai036.wav
+│      plot_03_10[0].txt
+│      
 ├─plot_04[0]
 │      p4dxz001.wav
 │      p4dxz002.wav
@@ -10371,9 +10607,7 @@
 │      tourist_vo_1[0].txt
 │      
 ├─ui[0]
-│      4.10.wav
-│      4.9.wav
-│      5.0.wav
+│      5.2.wav
 │      acquire_exp.wav
 │      acquire_heart.wav
 │      ant_run.wav
@@ -11314,5 +11548,5 @@
 └─zhongyuanwang[0]
         zhongyuanwang[0].txt
         zhongyuanwang_suxing.wav
-        zhongyuanwang_theme.wav
+        zhongyuanwang_theme.wav      
 ```

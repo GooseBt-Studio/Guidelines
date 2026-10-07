@@ -1,0 +1,1882 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="PREFS_ROYAL_BUNDLE_SHOW_COUNTER" value="3" />
+    <int name="PREFS_LOSE_SEQUENCE_COUNTER" value="0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_xN0R4mFXYv8" value="true" />
+    <float name="PREFS_ACHIEVEMENT__com.zeptolab.ctr2.f2p.acBakeryCompleted" value="100.0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_DI6C3O9R7TE" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_wCJvuYBZyGc" value="true" />
+    <string name="com.zeptolab.ctr2.f2p.hat2_HASH">d24dd83ed9c6f5a5880e791eb23b2343</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_Qa6Hh0Un0s4" value="true" />
+    <int name="CONSECUTIVE_WINS_COUNT" value="1" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_Iw2yChaFjcM" value="true" />
+    <string name="com.zeptolab.ctr2.f2p.fingertrace9_HASH">d0c6b0b6ad19aa5d542e871eb282ea4c</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_PlnqmZzkSf4" value="true" />
+    <int name="PREFS_OMNOM_PLACE_LEVEL" value="11" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_FCfDoANbKLs" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_o2zeLOhlA-U" value="true" />
+    <string name="com.zeptolab.ctr2.f2p.coins_unlim_HASH">5883c0ec46daaec3108fa1aa134bf965</string>
+    <int name="PREFS_LEVEL_STATUS__50_14" value="0" />
+    <int name="PREFS_LEVEL_STATUS__50_13" value="0" />
+    <int name="PREFS_LEVEL_STATUS__50_12" value="0" />
+    <int name="PREFS_LEVEL_STATUS__50_11" value="0" />
+    <int name="PREFS_LEVEL_STATUS__50_10" value="0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_Ucl5DUdrK1M" value="true" />
+    <int name="SESSION_LEVELS_COUNT" value="0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_xewfl6WWU6M" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_qJNnPGpiiTI" value="true" />
+    <int name="PREFS_TIMES_WON_4_1" value="4" />
+    <int name="MAP_GATES_STATE_20" value="2" />
+    <int name="PREFS_TIMES_WON_4_0" value="4" />
+    <int name="PREFS_TIMES_WON_4_3" value="3" />
+    <int name="PREFS_TIMES_WON_4_2" value="6" />
+    <int name="MAP_GATES_STATE_29" value="2" />
+    <int name="PREFS_TIMES_WON_4_9" value="10" />
+    <int name="MAP_GATES_STATE_28" value="2" />
+    <int name="PREFS_TIMES_WON_4_8" value="9" />
+    <int name="MAP_GATES_STATE_27" value="2" />
+    <int name="MAP_GATES_STATE_26" value="2" />
+    <int name="MAP_GATES_STATE_25" value="2" />
+    <int name="PREFS_TIMES_WON_4_5" value="29" />
+    <int name="MAP_GATES_STATE_24" value="2" />
+    <int name="PREFS_TIMES_WON_4_4" value="5" />
+    <int name="PREFS_TIMES_WON_4_7" value="7" />
+    <int name="PREFS_TIMES_WON_4_6" value="5" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_2_LEVEL_2">{&quot;coin_collected&quot;:{}}</string>
+    <boolean name="SALE_UNIQUE_ID_405_BOUGHT" value="false" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_2_LEVEL_3">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_2_LEVEL_4">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_2_LEVEL_5">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_2_LEVEL_0">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_2_LEVEL_1">{&quot;coin_collected&quot;:{}}</string>
+    <int name="MAP_GATES_STATE_10" value="2" />
+    <boolean name="PREFS_TARGETSALE_FINGERTRACE_POPUP" value="true" />
+    <boolean name="PREFS_TARGETSALE_USER_GIVEUP_GIFT_COMPLETE" value="false" />
+    <int name="MAP_GATES_STATE_18" value="2" />
+    <int name="MAP_GATES_STATE_17" value="2" />
+    <int name="MAP_GATES_STATE_16" value="2" />
+    <int name="MAP_GATES_STATE_15" value="2" />
+    <int name="MAP_GATES_STATE_14" value="2" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_2_LEVEL_6">{&quot;coin_collected&quot;:{}}</string>
+    <int name="MAP_GATES_STATE_13" value="2" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_H1HFPCfBdvw" value="true" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_2_LEVEL_7">{&quot;coin_collected&quot;:{}}</string>
+    <int name="MAP_GATES_STATE_12" value="2" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_2_LEVEL_8">{&quot;coin_collected&quot;:{}}</string>
+    <int name="MAP_GATES_STATE_11" value="2" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_2_LEVEL_9">{&quot;coin_collected&quot;:{}}</string>
+    <int name="PREFS_TIMES_WON_4_12" value="2" />
+    <int name="PREFS_TIMES_WON_4_11" value="4" />
+    <int name="MAP_LEVEL_STATE_1-23" value="2" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_C-rAmD4lL0c" value="true" />
+    <int name="PREFS_TIMES_WON_4_14" value="16" />
+    <int name="com.zeptolab.ctr2.bombs" value="0" />
+    <int name="MAP_LEVEL_STATE_1-22" value="2" />
+    <int name="PREFS_TIMES_WON_4_13" value="5" />
+    <int name="PREFS_TIMES_WON_4_10" value="5" />
+    <int name="MAP_GATES_STATE_19" value="2" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_wIprKMHG1ME" value="true" />
+    <int name="MAP_LEVEL_STATE_1-21" value="2" />
+    <int name="MAP_LEVEL_STATE_1-20" value="2" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_0_10" value="36810356" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_0_11" value="36950320" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_OMU0CAbRZ10" value="true" />
+    <boolean name="PREFS_FRUIT_MISSION_TUTORIAL_SHOWN" value="true" />
+    <boolean name="com.zeptolab.ctr2.f2p.candyskin5_BOUGHT" value="false" />
+    <string name="com.zeptolab.ctr2.f2p.speciallevels5_HASH">7d84d680f36cf7571edcbe46469fce6b</string>
+    <int name="PREFS_LEVEL_STATUS_EXT1_0_14" value="21763352" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_5_LEVEL_0">{&quot;coin_collected&quot;:{}}</string>
+    <float name="PREFS_ACHIEVEMENT__com.zeptolab.ctr2.f2p.acSlowSteady" value="95.450005" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_RGEw3NPfVe4" value="true" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_0_15" value="34854368" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_0_12" value="34336972" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_5_LEVEL_2">{&quot;coin_collected&quot;:{}}</string>
+    <int name="PREFS_LEVEL_STATUS_EXT1_0_13" value="33909588" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_5_LEVEL_1">{&quot;coin_collected&quot;:{}}</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_mZweQ3uF7_s" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_6VlxNGuLVXk" value="true" />
+    <int name="PREFS_TIMES_WON_4_19" value="3" />
+    <int name="MAP_LEVEL_STATE_1-19" value="2" />
+    <boolean name="SALE_UNIQUE_ID_416_BOUGHT" value="false" />
+    <boolean name="com.zeptolab.ctr2.f2p.candyskin8_BOUGHT" value="false" />
+    <int name="PREFS_TIMES_WON_4_16" value="5" />
+    <int name="PREFS_TIMES_WON_4_15" value="9" />
+    <int name="PREFS_TIMES_WON_4_18" value="4" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_TgjGaPpRGGs" value="true" />
+    <int name="PREFS_TIMES_WON_4_17" value="5" />
+    <int name="MAP_LEVEL_STATE_1-14" value="2" />
+    <int name="PREFS_TIMES_WON_4_23" value="1" />
+    <int name="MAP_LEVEL_STATE_1-13" value="2" />
+    <int name="PREFS_TIMES_WON_4_22" value="2" />
+    <int name="MAP_LEVEL_STATE_1-12" value="2" />
+    <int name="MAP_LEVEL_STATE_1-11" value="2" />
+    <int name="MAP_LEVEL_STATE_1-18" value="2" />
+    <int name="MAP_LEVEL_STATE_1-17" value="2" />
+    <int name="com.zeptolab.ctr2.f2p.coins_BOUGHT" value="0" />
+    <int name="MAP_LEVEL_STATE_1-16" value="2" />
+    <int name="PREFS_TIMES_WON_4_21" value="1" />
+    <int name="MAP_LEVEL_STATE_1-15" value="2" />
+    <int name="PREFS_TIMES_WON_4_20" value="4" />
+    <int name="PREFS_LEVEL_STATUS__5_23" value="384883" />
+    <int name="MAP_LEVEL_STATE_1-10" value="2" />
+    <int name="PREFS_LEVEL_STATUS__5_22" value="1432691" />
+    <int name="PREFS_LEVEL_STATUS__5_21" value="580979" />
+    <int name="PREFS_LEVEL_STATUS__5_20" value="541155" />
+    <int name="MAP_GATES_STATE_32" value="2" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_0_21" value="37523660" />
+    <int name="MAP_GATES_STATE_31" value="2" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_0_22" value="35621216" />
+    <int name="MAP_GATES_STATE_30" value="2" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_0_20" value="34623892" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_WfNhHE9zhiI" value="true" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_0_23" value="35018208" />
+    <boolean name="SALE_UNIQUE_ID_402_BOUGHT" value="false" />
+    <int name="MAP_GATES_STATE_37" value="2" />
+    <int name="MAP_GATES_STATE_36" value="2" />
+    <int name="MAP_GATES_STATE_35" value="2" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_de8hfegQsPo" value="true" />
+    <int name="MAP_GATES_STATE_34" value="2" />
+    <int name="MAP_GATES_STATE_33" value="2" />
+    <int name="PREFS_LEVEL_STATUS__5_16" value="115" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_0rOjeCJ4UV8" value="true" />
+    <int name="PREFS_LEVEL_STATUS__5_15" value="1304691" />
+    <int name="PREFS_LEVEL_STATUS__5_14" value="1432691" />
+    <int name="PREFS_LEVEL_STATUS__5_13" value="530019" />
+    <boolean name="SALE_UNIQUE_ID_413_BOUGHT" value="false" />
+    <int name="PREFS_LEVEL_STATUS__5_19" value="458867" />
+    <int name="PREFS_LEVEL_STATUS__5_18" value="1508963" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_96ZCB-7uvN8" value="true" />
+    <int name="PREFS_LEVEL_STATUS__5_17" value="256067" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_0_18" value="23088156" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_5_LEVEL_4">{&quot;coin_collected&quot;:{}}</string>
+    <int name="PREFS_LEVEL_STATUS_EXT1_0_19" value="32935140" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_5_LEVEL_3">{&quot;coin_collected&quot;:{}}</string>
+    <int name="PREFS_LEVEL_STATUS_EXT1_0_16" value="35115112" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_5_LEVEL_6">{&quot;coin_collected&quot;:{}}</string>
+    <string name="com.zeptolab.ctr2.f2p.hat9_HASH">c11ae97ad14e1fd3a349e59d430d99bc</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_yyeqNP28LRY" value="true" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_0_17" value="36630632" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_5_LEVEL_5">{&quot;coin_collected&quot;:{}}</string>
+    <int name="PREFS_LEVEL_STATUS__5_12" value="420211" />
+    <float name="PREFS_ROYAL_BUNDLE_SHOW_TIME" value="1.76879526E9" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_5_LEVEL_8">{&quot;coin_collected&quot;:{}}</string>
+    <int name="PREFS_LEVEL_STATUS__5_11" value="1710067" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_5_LEVEL_7">{&quot;coin_collected&quot;:{}}</string>
+    <int name="PREFS_LEVEL_STATUS__5_10" value="1588467" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_-i9vttaXsi8" value="true" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_5_LEVEL_9">{&quot;coin_collected&quot;:{}}</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_agbUuoRxts8" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_CO9UyV6xcr4" value="true" />
+    <int name="PREFS_USE_POWERUP_COUNTER" value="14" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_rz9PCan-Gto" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_FlonsVfVbDM" value="true" />
+    <int name="MENUBUTTON_FINGER_SHOWN_COUNT" value="0" />
+    <int name="MAP_LEVEL_STATE_2-5" value="2" />
+    <int name="MAP_LEVEL_STATE_2-6" value="2" />
+    <int name="MAP_LEVEL_STATE_2-3" value="2" />
+    <int name="MAP_LEVEL_STATE_2-4" value="2" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_uOV_85bX2y4" value="true" />
+    <int name="MAP_LEVEL_STATE_2-1" value="2" />
+    <int name="MAP_LEVEL_STATE_2-2" value="2" />
+    <int name="MAP_LEVEL_STATE_2-0" value="2" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_c6M1hugwe04" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_drTlhWYTqPI" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_WfN7LlCQDNw" value="true" />
+    <int name="MAP_LEVEL_STATE_2-9" value="2" />
+    <int name="MAP_LEVEL_STATE_2-7" value="2" />
+    <int name="MAP_LEVEL_STATE_2-8" value="2" />
+    <string name="MISSION_31">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1774353600,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <string name="MISSION_30">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1775217600,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <boolean name="SALE_UNIQUE_ID_0_BOUGHT" value="false" />
+    <string name="MISSION_33">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1775131200,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <string name="MISSION_32">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1774872000,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <string name="MISSION_35">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1775217600,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <boolean name="com.zeptolab.ctr2.f2p.candyskin2_BOUGHT" value="false" />
+    <string name="MISSION_34">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1773835200,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <string name="MISSION_37">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1775390400,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <string name="MISSION_36">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1774180800,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_ybYl6ZPOb2Y" value="true" />
+    <string name="MISSION_39">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1773662400,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <string name="MISSION_38">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1774612800,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <int name="PREFS_LEVEL_STATUS__1_21" value="1604979" />
+    <int name="PREFS_LEVEL_STATUS__1_20" value="1432691" />
+    <boolean name="SALE_UNIQUE_ID_361_BOUGHT" value="false" />
+    <int name="PREFS_LEVEL_STATUS__1_23" value="1432691" />
+    <int name="PREFS_LEVEL_STATUS__1_22" value="1652979" />
+    <string name="MISSION_42">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1773748800,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <string name="MISSION_41">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1775044800,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_gqB085RAa7s" value="true" />
+    <string name="MISSION_44">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1775649600,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <string name="MISSION_43">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1774094400,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <string name="MISSION_46">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:1773738444,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1773662400,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:84}}&#10;    </string>
+    <string name="MISSION_45">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1774094400,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <string name="MISSION_48">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1775044800,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <string name="MISSION_47">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1775736000,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <int name="PREFS_LEVEL_STATUS__1_18" value="1432691" />
+    <int name="PREFS_LEVEL_STATUS__1_17" value="1525875" />
+    <string name="com.zeptolab.ctr2.f2p.fingertrace2_HASH">6a167987f795f7d776c48534644544e0</string>
+    <string name="MISSION_49">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1774958400,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_iRHzhtkI6FY" value="true" />
+    <int name="PREFS_LEVEL_STATUS__1_19" value="1533939" />
+    <boolean name="SALE_UNIQUE_ID_383_BOUGHT" value="false" />
+    <int name="MAP_GATES_STATE_8" value="2" />
+    <int name="PREFS_LEVEL_STATUS__1_10" value="623203" />
+    <int name="MAP_GATES_STATE_7" value="2" />
+    <int name="MAP_GATES_STATE_6" value="2" />
+    <int name="PREFS_LEVEL_STATUS__1_12" value="1639539" />
+    <int name="MAP_GATES_STATE_5" value="2" />
+    <int name="PREFS_LEVEL_STATUS__1_11" value="1616499" />
+    <int name="MAP_GATES_STATE_4" value="2" />
+    <int name="PREFS_LEVEL_STATUS__1_14" value="1432691" />
+    <int name="PREFS_LEVEL_STATUS__1_13" value="1765491" />
+    <int name="MAP_GATES_STATE_2" value="2" />
+    <int name="PREFS_LEVEL_STATUS__1_16" value="1632739" />
+    <int name="PREFS_LEVEL_STATUS__1_15" value="1325555" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_qSJeZDu2ip4" value="true" />
+    <string name="MISSION_40">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1775563200,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <int name="PREFS_TIMES_WON_0_5" value="4" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_2_LEVEL_16">{&quot;coin_collected&quot;:{}}</string>
+    <int name="PREFS_TIMES_WON_0_4" value="4" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_2_LEVEL_15">{&quot;coin_collected&quot;:{}}</string>
+    <int name="PREFS_TIMES_WON_0_7" value="4" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_2_LEVEL_14">{&quot;coin_collected&quot;:{}}</string>
+    <int name="PREFS_TIMES_WON_0_6" value="6" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_2_LEVEL_13">{&quot;coin_collected&quot;:{}}</string>
+    <int name="PREFS_TIMES_WON_0_1" value="1" />
+    <int name="PREFS_TIMES_WON_0_0" value="1" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_2_LEVEL_19">{&quot;coin_collected&quot;:{}}</string>
+    <int name="PREFS_TIMES_WON_0_3" value="1" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_2_LEVEL_18">{&quot;coin_collected&quot;:{}}</string>
+    <int name="PREFS_TIMES_WON_0_2" value="1" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_2_LEVEL_17">{&quot;coin_collected&quot;:{}}</string>
+    <int name="PREFS_TIMES_WON_0_9" value="4" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_2_LEVEL_12">{&quot;coin_collected&quot;:{}}</string>
+    <int name="PREFS_TIMES_WON_0_8" value="7" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_2_LEVEL_11">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_2_LEVEL_10">{&quot;coin_collected&quot;:{}}</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_-m0pdpq9XrM" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_gpM2GytbVVk" value="true" />
+    <boolean name="SALE_UNIQUE_ID_350_BOUGHT" value="false" />
+    <int name="com.zeptolab.ctr2.f2p.hints" value="11" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_6hdj_nkoUfw" value="true" />
+    <int name="MAP_CHEST_STATE_1" value="3" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_Vt5ON4kzmCo" value="true" />
+    <int name="MAP_CHEST_STATE_2" value="3" />
+    <int name="MAP_CHEST_STATE_3" value="3" />
+    <int name="MAP_CHEST_STATE_4" value="3" />
+    <int name="com.zeptolab.ctr2.f2p.coins_free_USED" value="3700" />
+    <int name="MAP_CHEST_STATE_5" value="3" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_P1ZtOE4vbRQ" value="true" />
+    <int name="MAP_CHEST_STATE_6" value="3" />
+    <int name="MAP_CHEST_STATE_7" value="3" />
+    <int name="MAP_CHEST_STATE_8" value="3" />
+    <int name="MAP_CHEST_STATE_9" value="3" />
+    <boolean name="PREFS_TARGETSALE_POWERUP_POPUP_com.zeptolab.ctr2.f2p.teleports" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_o61KEzDzgA4" value="true" />
+    <int name="PREFS_CURRENT_PACK" value="6" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_7Cd-60YChVA" value="true" />
+    <boolean name="SALE_UNIQUE_ID_349_BOUGHT" value="false" />
+    <boolean name="PREFS_FTP_MISSIONS_TUTORUAL_3ND_MEDAL_PLAYED" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_PJYstvY8-qE" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_zOeBKLIptEs" value="true" />
+    <int name="PREFS_LEVEL_STATUS__5_9" value="1674979" />
+    <boolean name="EXTRA_LEVELS_EVENT_OMNOM_BIRTHDAY_MAP_BUTTON_SHOWN" value="false" />
+    <int name="PREFS_LEVEL_STATUS__5_8" value="413299" />
+    <int name="PREFS_LEVEL_STATUS__5_7" value="1445875" />
+    <int name="PREFS_LEVEL_STATUS__5_6" value="1432675" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_2_LEVEL_23">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_2_LEVEL_22">{&quot;coin_collected&quot;:{}}</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_nvdUC9eNL9o" value="true" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_2_LEVEL_21">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_2_LEVEL_20">{&quot;coin_collected&quot;:{}}</string>
+    <int name="PREFS_LEVEL_STATUS__5_1" value="1738355" />
+    <int name="PREFS_LEVEL_STATUS__5_0" value="1756531" />
+    <int name="PREFS_LEVEL_STATUS__5_5" value="1520499" />
+    <int name="PREFS_LEVEL_STATUS__5_4" value="1495283" />
+    <boolean name="PREFS_ENERGY_ENABLED" value="true" />
+    <int name="PREFS_LEVEL_STATUS__5_3" value="1556339" />
+    <int name="PREFS_LEVEL_STATUS__5_2" value="1582963" />
+    <int name="com.zeptolab.ctr2.balloons" value="0" />
+    <int name="PREFS__SESSION_HELPER__CURRENT_SESSION_NUMBER" value="170" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_PjHsQvWwRWM" value="true" />
+    <string name="PREFS_LOCALE">en</string>
+    <boolean name="PREFS_ANDROID_GOOGLE_PLAY_POPUP_SHOWN" value="true" />
+    <boolean name="SALE_UNIQUE_ID_334_BOUGHT" value="false" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_uouK1Hv5CJw" value="true" />
+    <boolean name="SALE_UNIQUE_ID_338_BOUGHT" value="false" />
+    <boolean name="com.zeptolab.ctr2.f2p.fingertrace5_BOUGHT" value="false" />
+    <int name="com.zeptolab.ctr2.f2p.bombs4" value="0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX__CR7F4JaiCc" value="true" />
+    <boolean name="SALE_UNIQUE_ID_375_BOUGHT" value="false" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_rRO5kM4foT0" value="true" />
+    <int name="PREFS_BANNERSYSTEM_VERSION" value="4" />
+    <int name="MAP_LEVEL_STATE_5-23" value="2" />
+    <int name="MAP_LEVEL_STATE_5-22" value="2" />
+    <int name="MAP_LEVEL_STATE_5-21" value="2" />
+    <int name="MAP_LEVEL_STATE_5-20" value="2" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_5_8" value="30072832" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_5_9" value="18961188" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_5_6" value="4400" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_9SqnD23mlcc" value="true" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_5_7" value="27139404" />
+    <boolean name="SALE_UNIQUE_ID_3_BOUGHT" value="false" />
+    <int name="PREFS_LAST_PLAYED_DAY" value="28" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_UGRmAdchKnE" value="true" />
+    <int name="MAP_LEVEL_STATE_5-19" value="2" />
+    <int name="MAP_LEVEL_STATE_5-16" value="2" />
+    <int name="MAP_LEVEL_STATE_5-15" value="2" />
+    <string name="com.zeptolab.ctr2.f2p.teleports4_HASH">bded4dce87e4d877fd993417483181ea</string>
+    <int name="MAP_LEVEL_STATE_5-18" value="2" />
+    <int name="MAP_LEVEL_STATE_5-17" value="2" />
+    <int name="MAP_LEVEL_STATE_5-12" value="2" />
+    <int name="MAP_LEVEL_STATE_5-11" value="2" />
+    <boolean name="SALE_UNIQUE_ID_364_BOUGHT" value="false" />
+    <int name="MAP_LEVEL_STATE_5-14" value="2" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_IPbOmgKOM2c" value="true" />
+    <int name="MAP_LEVEL_STATE_5-13" value="2" />
+    <int name="MAP_LEVEL_STATE_5-10" value="2" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_3WmP2kTLWrc" value="true" />
+    <float name="PREFS_ACHIEVEMENT__com.zeptolab.ctr2.f2p.acJunkyardCompleted" value="100.0" />
+    <int name="PREFS_OMNOM_PLACE_PACK" value="6" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_Sz1kX1Z3CUE" value="true" />
+    <int name="com.zeptolab.ctr2.f2p.teleports_USED" value="4" />
+    <float name="PREFS_ACHIEVEMENT__com.zeptolab.ctr2.f2p.acRopes200" value="100.0" />
+    <int name="com.zeptolab.ctr2.f2p.bombs_USED" value="21" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_3gAZTtCiQc8" value="true" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_5_4" value="27152288" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_5_5" value="28948436" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_5_2" value="26863868" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_5_3" value="29750252" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_5_0" value="37079392" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_5_1" value="36531728" />
+    <string name="MISSION_11">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1775649600,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <string name="MISSION_10">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1774699200,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <string name="MISSION_13">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1774353600,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <string name="MISSION_12">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1775304000,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_lUVg_REE7c8" value="true" />
+    <string name="MISSION_15">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1773835200,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <string name="MISSION_14">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1774872000,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <string name="MISSION_17">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1775563200,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <string name="MISSION_16">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1774180800,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <string name="MISSION_19">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1774008000,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <string name="MISSION_18">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1775908800,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <int name="MAP_CARTOON_NODE_STATE_4" value="5" />
+    <int name="MAP_CARTOON_NODE_STATE_3" value="5" />
+    <int name="MAP_CARTOON_NODE_STATE_6" value="1" />
+    <int name="MAP_CARTOON_NODE_STATE_5" value="5" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX__RfD-gDg_6o" value="true" />
+    <int name="MAP_CARTOON_NODE_STATE_2" value="5" />
+    <int name="com.zeptolab.ctr2.f2p.itemset1" value="2" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_GBIwOVPteNA" value="true" />
+    <int name="MAP_CARTOON_NODE_STATE_1" value="5" />
+    <boolean name="SALE_UNIQUE_ID_356_BOUGHT" value="false" />
+    <boolean name="SALE_UNIQUE_ID_353_BOUGHT" value="false" />
+    <string name="MISSION_20">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1773921600,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_lhzaeJIW-sA" value="true" />
+    <string name="MISSION_22">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1774785600,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_EPQqMdocClk" value="true" />
+    <string name="MISSION_21">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1774612800,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <string name="MISSION_24">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1775390400,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <string name="MISSION_23">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1775822400,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <long name="PREFS_LOCAL_NOTIF_DAILY_STR_ID" value="118292592" />
+    <string name="MISSION_26">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1774526400,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <string name="MISSION_25">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;hatsAndLevels&quot;:[],&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1773576000,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <boolean name="com.zeptolab.ctr2.f2p.hat8_BOUGHT" value="false" />
+    <boolean name="SALE_UNIQUE_ID_397_BOUGHT" value="false" />
+    <string name="MISSION_28">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1775390400,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <string name="MISSION_27">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1774872000,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <string name="MISSION_29">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1775736000,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <boolean name="SALE_UNIQUE_ID_386_BOUGHT" value="false" />
+    <int name="MAP_CARTOON_NODE_STATE_7" value="5" />
+    <int name="com.zeptolab.ctr2.f2p.balloons" value="25" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_DaUv5r102eM" value="true" />
+    <float name="PREFS_ACHIEVEMENT__com.zeptolab.ctr2.f2p.acSandPerfect" value="100.0" />
+    <int name="PREFS_STORE_LAST_POWERUP_PRODUCT" value="3" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_MWY3yzcocgc" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_DaN3AWqM35A" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_BiM2IfMrswI" value="true" />
+    <string name="com.zeptolab.ctr2.f2p.candyskin7_HASH">ac7adc919d2d9e44ca37a0af4ffc6b35</string>
+    <boolean name="SALE_UNIQUE_ID_345_BOUGHT" value="false" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_4ShOpJPHRxA" value="true" />
+    <boolean name="PREFS_UNKNOWN_POPUP_SHOWN" value="false" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_WBIzrQNV_tY" value="true" />
+    <float name="PREFS_ACHIEVEMENT__com.zeptolab.ctr2.f2p.acCatch10" value="100.0" />
+    <boolean name="SALE_UNIQUE_ID_367_BOUGHT" value="false" />
+    <int name="com.zeptolab.ctr2.f2p.candyrain" value="0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_GaoivUeKsXY" value="true" />
+    <string name="com.zeptolab.ctr2.f2p.fingertrace7_HASH">ea5d29ffc1b72389553c4ce49cdf4ce6</string>
+    <int name="PREFS_LEVEL_STATUS__1_5" value="1549811" />
+    <boolean name="EXTRA_LEVELS_EVENT_OMNOM_BIRTHDAY_PLAY_BUTTON_TUTORIAL_COMPLETED" value="false" />
+    <int name="PREFS_LEVEL_STATUS__1_4" value="1516531" />
+    <boolean name="PREFS_OPEN_PROMOBANNER" value="true" />
+    <int name="com.zeptolab.ctr2.teleports" value="0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_iEN30ngbC_k" value="true" />
+    <int name="PREFS_LEVEL_STATUS__1_3" value="1587571" />
+    <int name="PREFS_LEVEL_STATUS__1_2" value="3645683" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_v4IHmze8QpU" value="true" />
+    <int name="PREFS_LEVEL_STATUS__1_9" value="1676531" />
+    <int name="PREFS_LEVEL_STATUS__1_8" value="1432691" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_q5ATjS4RgJU" value="true" />
+    <int name="PREFS_LEVEL_STATUS__1_7" value="1667827" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_pvT_knW7mGY" value="true" />
+    <int name="PREFS_LEVEL_STATUS__1_6" value="1588211" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_NbZj_aFxpRo" value="true" />
+    <int name="PREFS_LEVEL_STATUS__1_1" value="1738995" />
+    <int name="PREFS_LEVEL_STATUS__1_0" value="1748979" />
+    <boolean name="PREFS_POWERUPS_USED" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_sYLYP1-5wC8" value="true" />
+    <string name="PREFS_ENERGY_EDITION">26.12.2015</string>
+    <boolean name="SALE_UNIQUE_ID_331_BOUGHT" value="false" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_6_GKc2Bw5wk" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_PDuX2glc0uM" value="true" />
+    <int name="PREFS_LAST_DAILY_BANNER_ACTIVATED" value="0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_e-KAT-dUt5o" value="true" />
+    <boolean name="PREFS_PLAYER_POPUP_LINK_VIDEO_EXIST" value="false" />
+    <int name="PREFS_PENDING_REMOVING_SPONSORSHIP_PACK" value="0" />
+    <int name="GENERAL_GATES_OPENED" value="15" />
+    <boolean name="PREF_SUBSC_DAILY_REWARD_FIRST_TIME_GOT" value="false" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_sB-94-FzctY" value="true" />
+    <int name="PREFS_TIMES_WON_0_10" value="11" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_H2nXmnZMyRg" value="true" />
+    <int name="PREFS_TIMES_WON_5_0" value="7" />
+    <int name="PREFS_TIMES_WON_5_2" value="7" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_6adq-wdl-kQ" value="true" />
+    <int name="PREFS_TIMES_WON_0_19" value="7" />
+    <int name="PREFS_TIMES_WON_5_1" value="4" />
+    <float name="PREFS_ACHIEVEMENT__com.zeptolab.ctr2.f2p.acLevitation" value="100.0" />
+    <int name="PREFS_TIMES_WON_0_14" value="8" />
+    <int name="PREFS_TIMES_WON_5_8" value="3" />
+    <int name="PREFS_TIMES_WON_0_13" value="5" />
+    <int name="PREFS_TIMES_WON_5_7" value="3" />
+    <int name="PREFS_TIMES_WON_0_12" value="12" />
+    <string name="LAST_LOADED_MAP">fire30.xml</string>
+    <int name="PREFS_TIMES_WON_0_11" value="5" />
+    <int name="PREFS_TIMES_WON_5_9" value="8" />
+    <string name="DAILY_SPIN_TICKET">OZoddbk3DnwwgXEQSCIAsw==</string>
+    <int name="PREFS_TIMES_WON_0_18" value="5" />
+    <int name="PREFS_TIMES_WON_5_4" value="3" />
+    <int name="PREFS_TIMES_WON_0_17" value="4" />
+    <int name="PREFS_TIMES_WON_5_3" value="9" />
+    <int name="PREFS_TIMES_WON_0_16" value="6" />
+    <int name="PREFS_TIMES_WON_5_6" value="2" />
+    <int name="PREFS_TIMES_WON_0_15" value="11" />
+    <int name="PREFS_TIMES_WON_5_5" value="4" />
+    <boolean name="SALE_UNIQUE_ID_342_BOUGHT" value="false" />
+    <int name="PREFS_TIMES_WON_0_21" value="6" />
+    <int name="PREFS_TIMES_WON_0_20" value="4" />
+    <int name="PREFS_LAST_PLAYED_YEAR" value="2026" />
+    <int name="PREFS_LAST_PLAYED_LEVEL" value="11" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_TPINT9c44ys" value="true" />
+    <int name="PREFS_LAST_FRUIT_MISSION" value="157" />
+    <int name="PREF_SUBSC_DAILY_REWARD_" value="400" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_YsEofnEhHYY" value="true" />
+    <int name="PREFS_TIMES_WON_0_23" value="5" />
+    <int name="PREFS_TIMES_WON_0_22" value="32" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_1_0" value="37766820" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_1_1" value="36449908" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_Z6lwaVzFGAY" value="true" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_1_8" value="37204672" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_1_9" value="37696392" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_1_6" value="16390100" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_1_7" value="38694216" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_1_4" value="36032916" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_1_5" value="32499864" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_1_2" value="33705488" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_1_3" value="31690256" />
+    <string name="com.zeptolab.ctr2.f2p.candyskin4_HASH">dbcbecaaa673ab0764e8d25ad61570a8</string>
+    <int name="AFTERLOADER_SUBSCRIPTION_COUNTER" value="0" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_3_22" value="28745728" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_3_23" value="36864000" />
+    <int name="MENUBUTTON_SUBSCRIPTION_COUNTER" value="5" />
+    <int name="PREFS_FRUIT_MISSION_BEFORE_POPUP" value="2" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_5uS12zSUQ8Y" value="true" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_3_20" value="27557888" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_qfCCyC-hOnY" value="true" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_3_21" value="22142976" />
+    <boolean name="PREFS_SHOULD_PLAY_OUTRO" value="false" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_-Yjsc255pKI" value="true" />
+    <boolean name="TUTORIAL_1CANDY_BALLOONS_SHOWN" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_PCM76aR4Rcw" value="true" />
+    <long name="PREFS_SPIN_TO_WIN_NEXT_SPIN_TIME" value="1767803783" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_QX85eKgrGFg" value="true" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_3_19" value="16384000" />
+    <int name="NUMBER_OF_SOFT_PURCHASES" value="4" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_rqAH5GH-its" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_W9tiliFJxEM" value="true" />
+    <int name="KEY_CURRENT_BANNER_ID_0_1" value="0" />
+    <int name="KEY_CURRENT_BANNER_ID_0_0" value="0" />
+    <int name="KEY_CURRENT_BANNER_ID_0_4" value="0" />
+    <long name="PREFS_CTR2_EXTRA_HINTS_PREVIOUS_DAY_TIMESTAMP" value="1773669339" />
+    <int name="com.zeptolab.ctr2.f2p.hints_EARNED_FOR_FREE" value="8" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_6kiA8WuYjQE" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_YiJ8M1QmAHA" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_Tpbp1LkUyBw" value="true" />
+    <float name="PREFS_ACHIEVEMENT__com.zeptolab.ctr2.f2p.acParkPerfect" value="98.611115" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_3_15" value="0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_q3MVwL9MOes" value="true" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_3_16" value="29679616" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_3_17" value="16388700" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_3_18" value="36421632" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_3_11" value="36405248" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_3_12" value="35643392" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_3_13" value="34625692" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_3_14" value="29073408" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_3_10" value="38338560" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_iGaqGK4WGog" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_lIc93kwM9po" value="true" />
+    <int name="com.zeptolab.ctr2.f2p.candyrain_USED" value="0" />
+    <float name="MAP_GATES_TIMEOUT_20" value="0.0" />
+    <float name="MAP_GATES_TIMEOUT_24" value="0.0" />
+    <float name="MAP_GATES_TIMEOUT_25" value="0.0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_jjyzXlU6A5Y" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_VjFVNQLOjJg" value="true" />
+    <float name="MAP_GATES_TIMEOUT_28" value="0.0" />
+    <float name="MAP_GATES_TIMEOUT_29" value="1.76841472E9" />
+    <float name="MAP_GATES_TIMEOUT_26" value="0.0" />
+    <float name="MAP_GATES_TIMEOUT_27" value="0.0" />
+    <int name="MAP_LEVEL_STATE_0-23" value="2" />
+    <int name="MAP_LEVEL_STATE_0-22" value="2" />
+    <float name="MAP_GATES_TIMEOUT_19" value="0.0" />
+    <long name="PREFS__SESSION_HELPER__LAST_SESSION_START_TIME" value="1779947412" />
+    <int name="MAP_LEVEL_STATE_0-21" value="2" />
+    <string name="com.zeptolab.ctr2.f2p.speciallevels2_HASH">b8a6635cff15df96e95993d59d756c8e</string>
+    <int name="MAP_LEVEL_STATE_0-20" value="2" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_hh_vy7C2TcE" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_eFD3QjYRJoc" value="true" />
+    <int name="DAILY_SPIN_DAY" value="0" />
+    <float name="MAP_GATES_TIMEOUT_31" value="0.0" />
+    <boolean name="TUTORIAL_SHOP_SHOWN" value="false" />
+    <float name="MAP_GATES_TIMEOUT_32" value="0.0" />
+    <float name="MAP_GATES_TIMEOUT_30" value="0.0" />
+    <float name="MAP_GATES_TIMEOUT_35" value="0.0" />
+    <float name="MAP_GATES_TIMEOUT_36" value="1.76874867E9" />
+    <int name="MAP_LEVEL_STATE_0-19" value="2" />
+    <float name="MAP_GATES_TIMEOUT_33" value="0.0" />
+    <int name="MAP_LEVEL_STATE_0-18" value="2" />
+    <float name="MAP_GATES_TIMEOUT_34" value="1.76866637E9" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_47VIQUdHQ9o" value="true" />
+    <float name="MAP_GATES_TIMEOUT_37" value="1.76876774E9" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_nkbTsu5Zw_M" value="true" />
+    <int name="MAP_LEVEL_STATE_0-13" value="2" />
+    <int name="MAP_LEVEL_STATE_0-12" value="2" />
+    <int name="MAP_LEVEL_STATE_0-11" value="2" />
+    <int name="MAP_LEVEL_STATE_0-10" value="2" />
+    <int name="MAP_LEVEL_STATE_0-17" value="2" />
+    <int name="MAP_LEVEL_STATE_0-16" value="2" />
+    <int name="MAP_LEVEL_STATE_0-15" value="2" />
+    <int name="MAP_LEVEL_STATE_0-14" value="2" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_2gESTXtP8ZQ" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_WDzjnppDFQk" value="true" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_1_23" value="22335392" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_vXOCn1HZYRc" value="true" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_1_22" value="20310668" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_1_21" value="32117240" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_1_20" value="29971236" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_M3ljMYck_w0" value="true" />
+    <int name="PREFS_PLAYED_DAYS" value="20" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_hpuGFkCjE_w" value="true" />
+    <int name="PREFS_LEVEL_STATUS__4_15" value="1432691" />
+    <int name="PREFS_TIMES_WON_3_10" value="4" />
+    <int name="PREFS_LEVEL_STATUS__4_14" value="688499" />
+    <int name="PREFS_TIMES_WON_3_11" value="4" />
+    <int name="PREFS_LEVEL_STATUS__4_13" value="502243" />
+    <boolean name="SALE_UNIQUE_ID_343_BOUGHT" value="false" />
+    <int name="PREFS_TIMES_WON_3_12" value="2" />
+    <int name="PREFS_LEVEL_STATUS__4_12" value="625395" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_A1TCqHUal78" value="true" />
+    <int name="PREFS_TIMES_WON_3_13" value="4" />
+    <int name="PREFS_LEVEL_STATUS__4_19" value="384099" />
+    <int name="PREFS_LEVEL_STATUS__4_18" value="3625715" />
+    <int name="PREFS_LEVEL_STATUS__4_17" value="1556467" />
+    <int name="PREFS_LEVEL_STATUS__4_16" value="1432691" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_1_19" value="32527440" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_1_18" value="28093068" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_1_17" value="31299540" />
+    <int name="PREFS_LEVEL_STATUS__4_11" value="384099" />
+    <int name="PREFS_LEVEL_STATUS__4_10" value="545907" />
+    <int name="com.zeptolab.ctr2.f2p.candyrain_BOUGHT" value="0" />
+    <float name="MAP_GATES_TIMEOUT_10" value="0.0" />
+    <int name="com.zeptolab.ctr2.f2p.teleports_BOUGHT" value="15" />
+    <float name="MAP_GATES_TIMEOUT_13" value="0.0" />
+    <int name="PREFS_TIMES_WON_3_18" value="5" />
+    <float name="MAP_GATES_TIMEOUT_14" value="1.76776614E9" />
+    <int name="PREFS_TIMES_WON_3_19" value="2" />
+    <float name="MAP_GATES_TIMEOUT_11" value="0.0" />
+    <string name="com.zeptolab.ctr2.f2p.balloons_HASH">64c2b49c0ba6a23e215b9e9d79b653d4</string>
+    <float name="MAP_GATES_TIMEOUT_12" value="1.7677193E9" />
+    <float name="MAP_GATES_TIMEOUT_17" value="0.0" />
+    <int name="PREFS_TIMES_WON_3_14" value="3" />
+    <float name="MAP_GATES_TIMEOUT_18" value="1.76812954E9" />
+    <int name="PREFS_TIMES_WON_3_15" value="2" />
+    <float name="MAP_GATES_TIMEOUT_15" value="1.76780314E9" />
+    <int name="PREFS_TIMES_WON_3_16" value="4" />
+    <float name="MAP_GATES_TIMEOUT_16" value="0.0" />
+    <int name="PREFS_TIMES_WON_3_17" value="5" />
+    <int name="MAP_CHEST_STATE_9b" value="3" />
+    <int name="PREFS_TIMES_WON_3_21" value="2" />
+    <int name="PREFS_TIMES_WON_3_22" value="2" />
+    <int name="PREFS_TIMES_WON_3_23" value="4" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_wZqU6R7H8fk" value="true" />
+    <int name="PREFS_TIMES_WON_3_20" value="2" />
+    <int name="CONSECUTIVEWINS_SUBSCRIPTION_COUNTER" value="0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_wCfpODfm2aY" value="true" />
+    <string name="com.zeptolab.ctr2.f2p.bombs_HASH">a3dce19035e77c09c950f5d18a64e1b8</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_dYbQIeDdPbs" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_leWl38tLS5I" value="true" />
+    <long name="HARDCODE_SALE_2_FINISH" value="1767802347" />
+    <float name="PREFS_ACHIEVEMENT__com.zeptolab.ctr2.f2p.acAir10" value="100.0" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_1_12" value="29519276" />
+    <boolean name="SALE_UNIQUE_ID_359_BOUGHT" value="false" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_1_11" value="34443868" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_1_10" value="19671192" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_1_16" value="15222936" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_1_15" value="17305704" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_1_14" value="31897456" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_1_13" value="37628756" />
+    <boolean name="SALE_UNIQUE_ID_384_BOUGHT" value="false" />
+    <int name="PREFS_MORE_GAME_LAST_SESSION_SHOW" value="167" />
+    <int name="PREFS_LEVEL_STATUS__4_23" value="384099" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_Q4sG-yADNXY" value="true" />
+    <string name="com.zeptolab.ctr2.f2p.candyrain_HASH">8b8101062b3c135771f560934b9dfaa5</string>
+    <int name="PREFS_LEVEL_STATUS__4_22" value="664547" />
+    <int name="PREFS_LEVEL_STATUS__4_21" value="390627" />
+    <int name="PREFS_LEVEL_STATUS__4_20" value="582387" />
+    <int name="PREFS_TIMES_WON_3_2" value="24" />
+    <int name="PREFS_TIMES_WON_3_1" value="4" />
+    <int name="PREFS_TIMES_WON_3_4" value="7" />
+    <int name="PREFS_TIMES_WON_3_3" value="5" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_kNmMws61W1U" value="true" />
+    <int name="PREFS_TIMES_WON_3_0" value="3" />
+    <int name="PREFS_TIMES_WON_3_9" value="4" />
+    <int name="PREFS_TIMES_WON_3_6" value="5" />
+    <int name="PREFS_TIMES_WON_3_5" value="1" />
+    <int name="PREFS_TIMES_WON_3_8" value="6" />
+    <int name="PREFS_TIMES_WON_3_7" value="1" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_R95dMyjf0wI" value="true" />
+    <boolean name="SALE_UNIQUE_ID_362_BOUGHT" value="false" />
+    <boolean name="SALE_UNIQUE_ID_340_BOUGHT" value="false" />
+    <boolean name="PREFS_TARGETSALE_POWERUP_POPUP_com.zeptolab.ctr2.f2p.bombs" value="true" />
+    <boolean name="SALE_UNIQUE_ID_392_BOUGHT" value="false" />
+    <boolean name="SALE_UNIQUE_ID_378_BOUGHT" value="false" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_j7O-0iFUwP4" value="true" />
+    <float name="PREFS_ACHIEVEMENT__com.zeptolab.ctr2.f2p.acTipTongue" value="100.0" />
+    <int name="AFTERAD_SUBSCRIPTION_COUNTER_timestamp" value="20473" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_pP4WeTcYQOU" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_v8e_IqcqjM0" value="true" />
+    <boolean name="SALE_UNIQUE_ID_337_BOUGHT" value="false" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_krUOi7Er_ko" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_31cZ_oqfNks" value="true" />
+    <int name="com.zeptolab.ctr2.f2p.bm5" value="0" />
+    <string name="com.zeptolab.ctr2.f2p.speciallevels1_HASH">cf3b193215aa6bcce34ac3fad0a4d779</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_TaoL-au1Ufg" value="true" />
+    <int name="PREFS_LEVEL_STATUS__0_20" value="5648243" />
+    <int name="PREFS_LEVEL_STATUS__0_22" value="7967731" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_l8-puPzkJQM" value="true" />
+    <int name="PREFS_LEVEL_STATUS__0_21" value="1534195" />
+    <int name="PREFS_LEVEL_STATUS__0_23" value="5626995" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_C7_NpSWqS-g" value="true" />
+    <int name="PREFS_LAST_PLAYED_PACK" value="6" />
+    <string name="com.zeptolab.ctr2.f2p.teleports_HASH">eba969997041340dc25c9df3a8c4067c</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_VDUa_nS1KII" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_QvJKMHEBSMs" value="true" />
+    <int name="com.zeptolab.ctr2.f2p.hints5" value="0" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_3_LEVEL_0">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_3_LEVEL_1">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_3_LEVEL_2">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_3_LEVEL_3">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_3_LEVEL_4">{&quot;coin_collected&quot;:{}}</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_ABGlUOweTPc" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_MzV8d7OqxQ4" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_-5mrH8NzIwE" value="true" />
+    <boolean name="PREFS_HINTS_GIFT_PASSED" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_UKheYJ4NiIc" value="true" />
+    <int name="com.zeptolab.ctr2.f2p.speciallevels2" value="0" />
+    <int name="com.zeptolab.ctr2.f2p.speciallevels1" value="0" />
+    <boolean name="PREFS_CLOUD_STORAGE_ON" value="true" />
+    <int name="com.zeptolab.ctr2.f2p.speciallevels4" value="0" />
+    <boolean name="SALE_UNIQUE_ID_365_BOUGHT" value="false" />
+    <int name="com.zeptolab.ctr2.f2p.speciallevels3" value="0" />
+    <boolean name="PREFS_FRUIT_MISSION_COMPLETED_OR_POWERUPS" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_L0K1nzzFNIU" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_ttNqB1Ahgvc" value="true" />
+    <boolean name="SALE_UNIQUE_ID_404_BOUGHT" value="false" />
+    <boolean name="SALE_UNIQUE_ID_387_BOUGHT" value="false" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_1G2KQg2tP5E" value="true" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_3_LEVEL_5">{&quot;coin_collected&quot;:{}}</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_mVhO0nFkRds" value="true" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_3_LEVEL_6">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_3_LEVEL_7">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_3_LEVEL_8">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_3_LEVEL_9">{&quot;coin_collected&quot;:{}}</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_JsudZTE-Qdw" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_joS3xBGIKG4" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_b7fLk4zicwU" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_14NcVmEJ-eQ" value="true" />
+    <boolean name="PREFS_IS_FIRST_LAUNCH" value="false" />
+    <boolean name="PREFS_FIXED_BUG_6828" value="true" />
+    <int name="MAP_LEVEL_STATE_4-22" value="2" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_Q-RENek-DbE" value="true" />
+    <int name="MAP_LEVEL_STATE_4-21" value="2" />
+    <int name="MAP_LEVEL_STATE_4-23" value="2" />
+    <float name="PREFS_ACHIEVEMENT__com.zeptolab.ctr2.f2p.acBlues100" value="100.0" />
+    <int name="MAP_LEVEL_STATE_4-20" value="2" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_WP6fM34HVow" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_AQTX0Ep_hSk" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_l0KvrwGLLU8" value="true" />
+    <int name="PREFS_LEVEL_STATUS__6_8" value="529379" />
+    <int name="PREFS_LEVEL_STATUS__6_7" value="428259" />
+    <int name="PREFS_LEVEL_STATUS__6_6" value="681587" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_vMPuLxDPc_g" value="true" />
+    <int name="PREFS_LEVEL_STATUS__6_5" value="1609587" />
+    <float name="ENERGY_TIMESTAMP" value="1.77994739E9" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_fgPyEy5yJH8" value="true" />
+    <int name="PREFS_LEVEL_STATUS__6_9" value="443235" />
+    <int name="PREFS_LEVEL_STATUS__6_0" value="1760371" />
+    <int name="MAP_LEVEL_STATE_4-19" value="2" />
+    <int name="MAP_LEVEL_STATE_4-18" value="2" />
+    <int name="PREFS_LAST_WATCHED_PACK_ON_PAGE_SELECT" value="0" />
+    <string name="com.zeptolab.ctr2.f2p.hat5_HASH">7678bf2a54c313861704aba982ec810f</string>
+    <boolean name="SALE_UNIQUE_ID_414_BOUGHT" value="false" />
+    <int name="PREFS_LEVEL_STATUS__6_4" value="1555315" />
+    <int name="MAP_LEVEL_STATE_4-15" value="2" />
+    <int name="PREFS_LEVEL_STATUS__6_3" value="384099" />
+    <int name="MAP_LEVEL_STATE_4-14" value="2" />
+    <int name="PREFS_LEVEL_STATUS__6_2" value="620531" />
+    <int name="MAP_LEVEL_STATE_4-17" value="2" />
+    <int name="PREFS_LEVEL_STATUS__6_1" value="579187" />
+    <int name="MAP_LEVEL_STATE_4-16" value="2" />
+    <int name="MAP_LEVEL_STATE_4-11" value="2" />
+    <int name="MAP_LEVEL_STATE_4-10" value="2" />
+    <int name="MAP_LEVEL_STATE_4-13" value="2" />
+    <int name="MAP_LEVEL_STATE_4-12" value="2" />
+    <string name="com.zeptolab.ctr2.f2p.candyskin3_HASH">4772a42505b7ba0c67bf3640b965b00c</string>
+    <string name="com.zeptolab.ctr2.f2p.fingertrace4_HASH">bdea8024f96bf8793346b6be092f0aeb</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_uyErvG7Qcjk" value="true" />
+    <int name="MAP_LEVEL_STATE_1-6" value="2" />
+    <int name="MAP_LEVEL_STATE_1-7" value="2" />
+    <int name="MAP_LEVEL_STATE_1-4" value="2" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_gGpzMo1zoQM" value="true" />
+    <int name="MAP_LEVEL_STATE_1-5" value="2" />
+    <int name="MAP_LEVEL_STATE_1-2" value="2" />
+    <int name="MAP_LEVEL_STATE_1-3" value="2" />
+    <int name="MAP_LEVEL_STATE_1-0" value="2" />
+    <int name="MAP_LEVEL_STATE_1-1" value="2" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_CGquVxL-aFA" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_ns5-xynWJtw" value="true" />
+    <boolean name="PREFS_COIN_FRUITS_EVENT_IS_CURRENTLY_ACTIVE" value="false" />
+    <int name="com.zeptolab.ctr2.f2p.teleports4" value="0" />
+    <int name="MAP_LEVEL_STATE_1-8" value="2" />
+    <int name="MAP_LEVEL_STATE_1-9" value="2" />
+    <boolean name="SALE_UNIQUE_ID_330_BOUGHT" value="false" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_K0jblLK9pX0" value="true" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_4_LEVEL_1">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_4_LEVEL_0">{&quot;coin_collected&quot;:{}}</string>
+    <float name="PREFS_ACHIEVEMENT__com.zeptolab.ctr2.f2p.acBaloons100" value="100.0" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_4_LEVEL_3">{&quot;coin_collected&quot;:{}}</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_Pn1RgBSlbeo" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_SNTuZiGyPdU" value="true" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_4_LEVEL_2">{&quot;coin_collected&quot;:{}}</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_F9wVJmnDacY" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_T7Wa02Dm8L8" value="true" />
+    <boolean name="com.zeptolab.ctr2.f2p.fingertrace9_BOUGHT" value="false" />
+    <boolean name="SALE_UNIQUE_ID_371_BOUGHT" value="false" />
+    <int name="com.zeptolab.ctr2.f2p.balloons_BOUGHT" value="15" />
+    <int name="ENERGY_REFUEL_LEVEL" value="0" />
+    <int name="MAP_LEVEL_STATE_6-1" value="2" />
+    <boolean name="SALE_UNIQUE_ID_368_BOUGHT" value="false" />
+    <int name="MAP_LEVEL_STATE_6-2" value="2" />
+    <int name="MAP_LEVEL_STATE_6-0" value="2" />
+    <int name="com.zeptolab.ctr2.f2p.hat9" value="0" />
+    <int name="com.zeptolab.ctr2.f2p.hat8" value="0" />
+    <int name="com.zeptolab.ctr2.f2p.hat3" value="0" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_4_LEVEL_9">{&quot;coin_collected&quot;:{}}</string>
+    <int name="com.zeptolab.ctr2.f2p.hat2" value="0" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_4_LEVEL_8">{&quot;coin_collected&quot;:{}}</string>
+    <int name="com.zeptolab.ctr2.f2p.hat1" value="2" />
+    <int name="com.zeptolab.ctr2.f2p.hat7" value="0" />
+    <int name="com.zeptolab.ctr2.f2p.coins" value="0" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_4_LEVEL_5">{&quot;coin_collected&quot;:{}}</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_tEMh7HawFMI" value="true" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_4_LEVEL_4">{&quot;coin_collected&quot;:{}}</string>
+    <int name="com.zeptolab.ctr2.f2p.hat5" value="0" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_4_LEVEL_7">{&quot;coin_collected&quot;:{}}</string>
+    <int name="com.zeptolab.ctr2.f2p.hat4" value="0" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_4_LEVEL_6">{&quot;coin_collected&quot;:{}}</string>
+    <int name="MAP_LEVEL_STATE_6-9" value="2" />
+    <string name="com.zeptolab.ctr2.f2p.speciallevels4_HASH">76a6eab519409bb9046b31943c397d92</string>
+    <int name="MAP_LEVEL_STATE_6-7" value="2" />
+    <int name="MAP_LEVEL_STATE_6-8" value="2" />
+    <int name="PREFS_COHORT_NUMBER" value="680" />
+    <int name="MAP_LEVEL_STATE_6-5" value="2" />
+    <int name="MAP_LEVEL_STATE_6-6" value="2" />
+    <int name="MAP_LEVEL_STATE_6-3" value="2" />
+    <int name="MAP_LEVEL_STATE_6-4" value="2" />
+    <boolean name="TUTORIAL_SWIPE_UP_ACTION_DONE" value="false" />
+    <boolean name="com.zeptolab.ctr2.f2p.candyskin7_BOUGHT" value="false" />
+    <string name="com.zeptolab.ctr2.f2p.itemset1_HASH">ec63e35372afc1e8c7be637a9b0e6914</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_3_LEVEL_11">{&quot;coin_collected&quot;:{}}</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_s8T5igvCM0Q" value="true" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_3_LEVEL_10">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_3_LEVEL_13">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_3_LEVEL_12">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_3_LEVEL_19">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_3_LEVEL_18">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_3_LEVEL_15">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_3_LEVEL_14">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_3_LEVEL_17">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_3_LEVEL_16">{&quot;coin_collected&quot;:{}}</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_MXBN_sMHGhw" value="true" />
+    <boolean name="com.zeptolab.ctr2.f2p.hat5_BOUGHT" value="false" />
+    <boolean name="com.zeptolab.ctr2.f2p.hat9_BOUGHT" value="false" />
+    <long name="PREFS__SESSION_HELPER__LAST_SESSION_FINISH_TIME" value="1779947413" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_3_LEVEL_22">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_3_LEVEL_21">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_3_LEVEL_23">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_3_LEVEL_20">{&quot;coin_collected&quot;:{}}</string>
+    <int name="PREFS_LEVEL_STATUS_EXT1_6_9" value="14868480" />
+    <long name="HARDCODE_SALE_8_FINISH" value="1768711707" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_6_7" value="18956288" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_6_8" value="14090240" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_mbWbfr4LHzk" value="true" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_6_5" value="37234440" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_6_6" value="35438592" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_rFicCeo_Q6o" value="true" />
+    <boolean name="SALE_UNIQUE_ID_408_BOUGHT" value="false" />
+    <string name="PREFS_SCORES_HASH">7dc563fd016b0db0753e46871d209b4c</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_-moK3le8ukc" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_QGMrYMudrPA" value="true" />
+    <boolean name="SALE_UNIQUE_ID_410_BOUGHT" value="false" />
+    <int name="PREFS_LEVEL_STATUS__2_9" value="1432691" />
+    <int name="PREFS_LEVEL_STATUS__2_4" value="634979" />
+    <int name="PREFS_LEVEL_STATUS__2_3" value="1627379" />
+    <int name="PREFS_LEVEL_STATUS__2_2" value="536947" />
+    <int name="PREFS_LEVEL_STATUS__2_1" value="384115" />
+    <int name="PREFS_LEVEL_STATUS__2_8" value="614899" />
+    <int name="PREFS_LEVEL_STATUS__2_7" value="598515" />
+    <int name="PREFS_LEVEL_STATUS__2_6" value="1552995" />
+    <int name="PREFS_LEVEL_STATUS__2_5" value="605683" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_6_3" value="0" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_6_4" value="16388600" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_6_1" value="34441268" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_N7oh9M7Kmzw" value="true" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_6_2" value="31526316" />
+    <int name="PREFS_LEVEL_STATUS__2_0" value="1727859" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_6_0" value="37382696" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_DizgVV8tLnk" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_kNKTRrTOj2o" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_FpXJAfwY-qA" value="true" />
+    <int name="PREFS_LEVEL_STATUS__0_17" value="1527923" />
+    <int name="PREFS_LEVEL_STATUS__0_16" value="1616243" />
+    <int name="PREFS_LEVEL_STATUS__0_19" value="1432691" />
+    <int name="PREFS_LEVEL_STATUS__0_18" value="1640819" />
+    <int name="PREFS_LEVEL_STATUS__0_11" value="1726963" />
+    <int name="PREFS_LEVEL_STATUS__0_10" value="1726067" />
+    <int name="PREFS_LEVEL_STATUS__0_13" value="1685747" />
+    <int name="PREFS_LEVEL_STATUS__0_12" value="1712243" />
+    <int name="PREFS_LEVEL_STATUS__0_15" value="1557619" />
+    <int name="PREFS_LEVEL_STATUS__0_14" value="1601523" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_86tKmQc3Czo" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_WTl2WSWQWqI" value="true" />
+    <int name="com.zeptolab.ctr2.f2p.fingertrace4" value="0" />
+    <int name="com.zeptolab.ctr2.f2p.fingertrace3" value="2" />
+    <int name="com.zeptolab.ctr2.f2p.fingertrace2" value="1" />
+    <int name="com.zeptolab.ctr2.f2p.fingertrace1" value="1" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_53ePiCirfvk" value="true" />
+    <int name="com.zeptolab.ctr2.f2p.fingertrace8" value="0" />
+    <int name="com.zeptolab.ctr2.f2p.fingertrace7" value="0" />
+    <int name="com.zeptolab.ctr2.f2p.fingertrace5" value="0" />
+    <int name="com.zeptolab.ctr2.f2p.fingertrace9" value="0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_4U_e8hb6ccY" value="true" />
+    <int name="PREFS_CTR2_EXTRA_HINTS_SHOWN_THIS_DAY_COUNT" value="0" />
+    <int name="MAP_CHEST_STATE_10" value="3" />
+    <int name="MAP_CHEST_STATE_11" value="3" />
+    <int name="AUDIO_STATE" value="7" />
+    <boolean name="royalbundle" value="false" />
+    <int name="MAP_CHEST_STATE_12" value="3" />
+    <int name="MAP_CHEST_STATE_13" value="3" />
+    <int name="MAP_CHEST_STATE_14" value="3" />
+    <string name="com.zeptolab.ctr2.f2p.bm5_HASH">05e5715fcabbe98b2e231fc71b0ffde9</string>
+    <int name="PREFS_CTR2_EXTENSIONS_RATE_ME_TIMES_USER_CLICKED_YES" value="3" />
+    <int name="MAP_CHEST_STATE_15" value="3" />
+    <int name="MAP_CHEST_STATE_16" value="3" />
+    <int name="MAP_CHEST_STATE_18" value="3" />
+    <int name="MAP_CHEST_STATE_19" value="3" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_9PXZ-EVc-FI" value="true" />
+    <string name="com.zeptolab.ctr2.f2p.candyskin9_HASH">09f8c84b2ae2ccd822dfe9c58d5e14ef</string>
+    <int name="com.zeptolab.ctr2.coins" value="0" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_6_LEVEL_21">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_6_LEVEL_20">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_6_LEVEL_23">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_6_LEVEL_22">{&quot;coin_collected&quot;:{}}</string>
+    <int name="PREFS_COME_BACK_PRESENT_AMOUNT" value="250" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_4_16" value="36630932" />
+    <float name="PREFS_ACHIEVEMENT__com.zeptolab.ctr2.f2p.acMarketPerfect" value="98.611115" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_4_17" value="35246384" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_4_18" value="35851692" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_4_19" value="3100" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_4_12" value="36503552" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_4_13" value="17833984" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_4_14" value="34950372" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_4_15" value="27419632" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_4_10" value="16384000" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_4_11" value="2400" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_WJy2IggwKMo" value="true" />
+    <string name="com.zeptolab.ctr2.f2p.hat8_HASH">62cd399ef61b27695425bca09c36bfa8</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_6_LEVEL_10">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_6_LEVEL_12">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_6_LEVEL_11">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_6_LEVEL_14">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_6_LEVEL_13">{&quot;coin_collected&quot;:{}}</string>
+    <int name="SUBSC_CUSTOMIZATION_SHOWN_TIMES_131" value="18" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_6_LEVEL_16">{&quot;coin_collected&quot;:{}}</string>
+    <int name="MAP_CHEST_STATE_2b" value="3" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_6_LEVEL_15">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_6_LEVEL_18">{&quot;coin_collected&quot;:{}}</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_ZYWuZXvNdzE" value="true" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_6_LEVEL_17">{&quot;coin_collected&quot;:{}}</string>
+    <boolean name="SALE_UNIQUE_ID_346_BOUGHT" value="false" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_6_LEVEL_19">{&quot;coin_collected&quot;:{}}</string>
+    <boolean name="EXTRA_LEVELS_EVENT_OMNOM_BIRTHDAY_COMPLETED" value="false" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_iGixZCcQHGg" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_9SDxMspVCs0" value="true" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_4_23" value="0" />
+    <int name="MAP_CHEST_STATE_20" value="3" />
+    <int name="MAP_CHEST_STATE_21" value="3" />
+    <int name="MAP_CHEST_STATE_22" value="3" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_4_20" value="35366564" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_GVTABVBTNZ4" value="true" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_4_21" value="0" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_4_22" value="3600" />
+    <int name="MAP_CHEST_STATE_23" value="3" />
+    <int name="MAP_CHEST_STATE_24" value="3" />
+    <int name="MAP_CHEST_STATE_25" value="3" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_M9z5lxKzfgY" value="true" />
+    <int name="MAP_CHEST_STATE_26" value="3" />
+    <int name="MAP_CHEST_STATE_27" value="3" />
+    <int name="MAP_CHEST_STATE_28" value="3" />
+    <string name="com.zeptolab.ctr2.f2p.coins_free_HASH">8d473e3664ffa6bd82d72c3b955da067</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_nWt6CMsIb8w" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_S6DCurAfYuA" value="true" />
+    <string name="PREFS_CTR2_EXTENSIONS_RATE_ME_LEVELS_WHERE_POPUP_WAS_SHOWN">9,20,35</string>
+    <int name="PREFS_LEVEL_STATUS_EXT1_2_9" value="30399520" />
+    <int name="PREFS_USER_AGE" value="0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_NrWA7063osA" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_TSCHDikfsRc" value="true" />
+    <boolean name="SALE_UNIQUE_ID_352_BOUGHT" value="false" />
+    <boolean name="com.zeptolab.ctr2.f2p.hat2_BOUGHT" value="false" />
+    <int name="ADDITIONAL_GATES_OPENED" value="16" />
+    <boolean name="PREFS_BACK_TO_SCHOOL_CONTENT" value="false" />
+    <boolean name="SALE_UNIQUE_ID_401_BOUGHT" value="false" />
+    <boolean name="SALE_UNIQUE_ID_380_BOUGHT" value="false" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_2_0" value="38504200" />
+    <int name="com.zeptolab.ctr2.f2p.coins_USED" value="0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_i3Lvp68NFQo" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX__CzbxSPyVv4" value="true" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_2_7" value="35772572" />
+    <string name="com.zeptolab.ctr2.f2p.speciallevels7_HASH">0b6000147598c822a51bc71b4d19bd9c</string>
+    <int name="PREFS_LEVEL_STATUS_EXT1_2_8" value="35397632" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_2_5" value="35704936" />
+    <float name="PREFS_ACHIEVEMENT__com.zeptolab.ctr2.f2p.acCreepyFlight" value="100.0" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_2_6" value="5800" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_2_3" value="35163264" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_2_4" value="2500" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_2_1" value="36531128" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_2_2" value="31089940" />
+    <boolean name="com.zeptolab.ctr2.f2p.candyskin4_BOUGHT" value="false" />
+    <boolean name="SALE_UNIQUE_ID_417_BOUGHT" value="false" />
+    <int name="com.zeptolab.ctr2.hints" value="0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_Iitf24X2J_g" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_FDNwZaTRk1Q" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_1CARA7d9tv0" value="true" />
+    <int name="com.zeptolab.ctr2.f2p.key" value="0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_xtfK_eI3oCU" value="true" />
+    <int name="com.zeptolab.ctr2.f2p.hints_USED" value="9" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_fgTO574aKsY" value="true" />
+    <int name="com.zeptolab.ctr2.f2p.coins_EARNED_FOR_FREE" value="0" />
+    <boolean name="SALE_UNIQUE_ID_396_BOUGHT" value="false" />
+    <boolean name="SALE_UNIQUE_ID_374_BOUGHT" value="false" />
+    <float name="PREFS_ACHIEVEMENT__com.zeptolab.ctr2.f2p.acSandCompleted" value="100.0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_wIJf4gV726w" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_uBZp6FyAWnU" value="true" />
+    <boolean name="EXTRA_LEVELS_EVENT_OMNOM_BIRTHDAY_MAP_BUTTON_TUTORIAL_COMPLETED" value="false" />
+    <int name="PREFS_TIMES_WON_2_3" value="7" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_2_13" value="33787108" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_5_LEVEL_16">{&quot;coin_collected&quot;:{}}</string>
+    <int name="PREFS_TIMES_WON_2_2" value="6" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_2_12" value="16384000" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_5_LEVEL_17">{&quot;coin_collected&quot;:{}}</string>
+    <int name="PREFS_TIMES_WON_2_5" value="7" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_2_11" value="31080156" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_5_LEVEL_18">{&quot;coin_collected&quot;:{}}</string>
+    <int name="PREFS_TIMES_WON_2_4" value="2" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_2_10" value="26524204" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_5_LEVEL_19">{&quot;coin_collected&quot;:{}}</string>
+    <int name="PREFS_LEVEL_STATUS_EXT1_2_17" value="1399440" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_2_16" value="34237468" />
+    <int name="PREFS_TIMES_WON_2_1" value="6" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_2_15" value="16392300" />
+    <int name="PREFS_TIMES_WON_2_0" value="4" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_2_14" value="16384000" />
+    <int name="PREFS_TIMES_WON_2_17" value="3" />
+    <int name="PREFS_TIMES_WON_2_18" value="2" />
+    <int name="PREFS_TIMES_WON_2_19" value="6" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_5_LEVEL_10">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_5_LEVEL_11">{&quot;coin_collected&quot;:{}}</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_ebRw23nczzs" value="true" />
+    <int name="PREFS_TIMES_WON_2_7" value="4" />
+    <int name="PREFS_TIMES_WON_2_13" value="4" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_5_LEVEL_12">{&quot;coin_collected&quot;:{}}</string>
+    <int name="PREFS_TIMES_WON_2_6" value="3" />
+    <int name="PREFS_TIMES_WON_2_14" value="2" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_5_LEVEL_13">{&quot;coin_collected&quot;:{}}</string>
+    <int name="PREFS_TIMES_WON_2_9" value="5" />
+    <int name="PREFS_TIMES_WON_2_15" value="8" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_5_LEVEL_14">{&quot;coin_collected&quot;:{}}</string>
+    <int name="PREFS_TIMES_WON_2_8" value="6" />
+    <int name="PREFS_TIMES_WON_2_16" value="10" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_5_LEVEL_15">{&quot;coin_collected&quot;:{}}</string>
+    <int name="PREFS_TIMES_WON_2_20" value="2" />
+    <boolean name="SALE_UNIQUE_ID_336_BOUGHT" value="false" />
+    <int name="PREFS_TIMES_WON_2_21" value="3" />
+    <int name="PREFS_LEVEL_STATUS__3_22" value="415219" />
+    <int name="PREFS_TIMES_WON_2_22" value="1" />
+    <int name="PREFS_LEVEL_STATUS__3_23" value="2713591" />
+    <int name="PREFS_TIMES_WON_2_23" value="1" />
+    <boolean name="PREFS_PLAYER_REWARDED__3" value="true" />
+    <boolean name="PREFS_PLAYER_REWARDED__4" value="true" />
+    <boolean name="PREFS_PLAYER_REWARDED__1" value="true" />
+    <boolean name="PREFS_PLAYER_REWARDED__2" value="true" />
+    <boolean name="PREFS_PLAYER_REWARDED__7" value="true" />
+    <boolean name="PREFS_PLAYER_REWARDED__5" value="true" />
+    <boolean name="com.zeptolab.ctr2.f2p.fingertrace7_BOUGHT" value="false" />
+    <boolean name="PREFS_PLAYER_REWARDED__6" value="false" />
+    <int name="PREFS_LEVEL_STATUS__3_20" value="384115" />
+    <int name="PREFS_LEVEL_STATUS__3_21" value="384115" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_2_23" value="0" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_2_22" value="0" />
+    <boolean name="SALE_UNIQUE_ID_377_BOUGHT" value="false" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_2_21" value="16389800" />
+    <boolean name="SALE_UNIQUE_ID_366_BOUGHT" value="false" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_0_LEVEL_19">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_5_LEVEL_20">{&quot;coin_collected&quot;:{}}</string>
+    <int name="PREFS_LEVEL_STATUS__3_19" value="384115" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_5_LEVEL_21">{&quot;coin_collected&quot;:{}}</string>
+    <boolean name="PREFS_CHRISTMAS_HAT" value="false" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_5_LEVEL_22">{&quot;coin_collected&quot;:{}}</string>
+    <int name="PREFS_LEVEL_STATUS_EXT1_2_20" value="0" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_5_LEVEL_23">{&quot;coin_collected&quot;:{}}</string>
+    <int name="PREFS_FORMAT_VERSION" value="9" />
+    <int name="PREFS_LEVEL_STATUS__3_13" value="1622259" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_0_LEVEL_23">{&quot;coin_collected&quot;:{}}</string>
+    <int name="PREFS_LEVEL_STATUS__3_14" value="430323" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_0_LEVEL_22">{&quot;coin_collected&quot;:{}}</string>
+    <int name="PREFS_LEVEL_STATUS__3_11" value="623475" />
+    <int name="PREFS_LEVEL_STATUS__3_12" value="395379" />
+    <int name="com.zeptolab.ctr2.f2p.bombs" value="17" />
+    <int name="PREFS_LEVEL_STATUS__3_17" value="1502707" />
+    <int name="PREFS_LEVEL_STATUS__3_18" value="636531" />
+    <int name="PREFS_LEVEL_STATUS__3_15" value="653795" />
+    <int name="PREFS_LEVEL_STATUS__3_16" value="384115" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_hv-CISFw9hU" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_yAcbO39Xz40" value="true" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_2_19" value="6212236" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_2_18" value="30883840" />
+    <int name="PREFS_LEVEL_STATUS__3_10" value="655731" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_0_LEVEL_21">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_0_LEVEL_20">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_PENDING_REMOVING_PACKS"></string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_y2nYfasiy5U" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_6-jNE3kgKRQ" value="true" />
+    <float name="PREFS_MISSION_PANEL_TIME_SHOWN" value="1.7737385E9" />
+    <string name="com.zeptolab.ctr2.f2p.speciallevels6_HASH">a704eb932bbe37b180e08b6bdcaf081c</string>
+    <long name="PREFS_CTR2_EXTENSIONS_RATE_ME_LAST_POPUP_SHOW_TIMESTAMP" value="1767763938" />
+    <string name="com.zeptolab.ctr2.f2p.candyskin8_HASH">a42324b8864bd3f58cc2035e0468b25b</string>
+    <boolean name="SALE_UNIQUE_ID_347_BOUGHT" value="false" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_BPM8PLzBz5E" value="true" />
+    <int name="PREFS_LAST_PLAYED_MONTH" value="4" />
+    <boolean name="PREFS_TARGETSALE_POWERUP_POPUP_com.zeptolab.ctr2.f2p.balloons" value="true" />
+    <float name="PREFS_ACHIEVEMENT__com.zeptolab.ctr2.f2p.acSeaStars10" value="100.0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_0scHr9YElc4" value="true" />
+    <string name="com.zeptolab.ctr2.f2p.hints_HASH">678b4bba6bdb3b63651945778a6b4a5a</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_szGXHL_dmjE" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_kPeWw8R41kI" value="true" />
+    <string name="com.zeptolab.ctr2.f2p.fingertrace1_HASH">1084e69312dca133e399c067b28a7156</string>
+    <int name="com.zeptolab.ctr2.f2p.balloons_EARNED_FOR_FREE" value="33" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_9eqVQw-sbyc" value="true" />
+    <int name="PREFS_MISSION_PANEL_COUNT_SHOWN" value="2" />
+    <string name="com.zeptolab.ctr2.f2p.candyskin1_HASH">2842f1a8ba30693554c409f6d4f0df16</string>
+    <float name="PREFS_ACHIEVEMENT__com.zeptolab.ctr2.f2p.acBooAlert" value="100.0" />
+    <boolean name="SUBSCRIPTION_IS_ACTIVE_PREF" value="false" />
+    <boolean name="SALE_UNIQUE_ID_2_BOUGHT" value="false" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_0_LEVEL_12">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_0_LEVEL_11">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_0_LEVEL_14">{&quot;coin_collected&quot;:{}}</string>
+    <int name="AFTERAD_SUBSCRIPTION_COUNTER" value="0" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_0_LEVEL_13">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_0_LEVEL_16">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_0_LEVEL_15">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_0_LEVEL_18">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_0_LEVEL_17">{&quot;coin_collected&quot;:{}}</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_Inp2zoiICfo" value="true" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_0_LEVEL_10">{&quot;coin_collected&quot;:{}}</string>
+    <string name="com.zeptolab.ctr2.f2p.coins_HASH">d57ca0321dd5129f46b86549f1862560</string>
+    <int name="PREFS_NBO_STATUS" value="1" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_5l_xp5TEol4" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_1NOxvPureaY" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_grokbBHN1Nc" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_5ztqrAd-xhM" value="true" />
+    <int name="SUBSCRIPTION_LEVELS_WON_THIS_SESSION" value="1" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_LKR85Pz1kAU" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_3IbppBc8Rmk" value="true" />
+    <int name="MAP_LEVEL_STATE_3-17" value="2" />
+    <int name="MAP_LEVEL_STATE_3-18" value="2" />
+    <int name="MAP_LEVEL_STATE_3-19" value="2" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_isJYRrC0mJ8" value="true" />
+    <int name="MAP_LEVEL_STATE_3-13" value="2" />
+    <int name="MAP_LEVEL_STATE_3-14" value="2" />
+    <boolean name="SALE_UNIQUE_ID_333_BOUGHT" value="false" />
+    <int name="MAP_LEVEL_STATE_3-15" value="2" />
+    <int name="MAP_LEVEL_STATE_3-16" value="2" />
+    <int name="MAP_LEVEL_STATE_3-10" value="2" />
+    <int name="MAP_LEVEL_STATE_3-11" value="2" />
+    <int name="MAP_LEVEL_STATE_3-12" value="2" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_H6mFqjOXIO8" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_iJDNc6Qqqrc" value="true" />
+    <int name="ENERGY_CURRENT" value="90" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_vfxN5AqhxZo" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_mZpMX2mFF48" value="true" />
+    <float name="PREFS_ACHIEVEMENT__com.zeptolab.ctr2.f2p.acMissions100" value="100.0" />
+    <float name="PREFS_FIRST_LAUNCH_DATE" value="1.76761766E9" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_AU1-MnbNYXs" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_6SXt1Gyd3Iw" value="true" />
+    <boolean name="PREFS_PERSONAL_OFFER_easter_PURCHASED" value="false" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_oXQWGvfMcrA" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_D3GkT2CxzA0" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_ahbpvLYDyVI" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_5dD4bIBB8Fk" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_-GZQ6RdJAGM" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_aOGr-j1CsS8" value="true" />
+    <boolean name="SALE_UNIQUE_ID_339_BOUGHT" value="false" />
+    <boolean name="PREFS_CLOUD_NOTIFICATION" value="false" />
+    <int name="PREFS_TIMES_WON_6_15" value="1" />
+    <int name="PREFS_TIMES_WON_6_16" value="2" />
+    <int name="PREFS_TIMES_WON_6_13" value="2" />
+    <int name="PREFS_TIMES_WON_6_14" value="5" />
+    <int name="PREFS_TIMES_WON_6_11" value="2" />
+    <int name="PREFS_TIMES_WON_6_12" value="1" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_lOcAjvIy1e8" value="true" />
+    <int name="PREFS_TIMES_WON_6_10" value="1" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_D15nFHWHu7Y" value="true" />
+    <float name="PREFS_TARGETSALE_USER_COINS_SPENDER_NOTIFICATION" value="0.0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_Z8Nx6C0NH8g" value="true" />
+    <int name="com.zeptolab.ctr2.candyrain" value="0" />
+    <int name="com.zeptolab.ctr2.f2p.balloons_USED" value="23" />
+    <int name="PREFS_PLAYER_VIDEOS_WATCHED" value="0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_fuuoXO7ao-o" value="true" />
+    <int name="PREFS_TIMES_WON_6_19" value="1" />
+    <int name="PREFS_TIMES_WON_6_17" value="1" />
+    <int name="PREFS_TIMES_WON_6_18" value="3" />
+    <int name="com.zeptolab.ctr2.f2p.teleports" value="24" />
+    <int name="PREFS_TIMES_WON_6_22" value="1" />
+    <int name="PREFS_TIMES_WON_6_23" value="11" />
+    <int name="PREFS_TIMES_WON_6_20" value="1" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_7dk-7mPvDzE" value="true" />
+    <int name="PREFS_TIMES_WON_6_21" value="1" />
+    <float name="PREFS_ACHIEVEMENT__com.zeptolab.ctr2.f2p.acForestPerfect" value="100.0" />
+    <boolean name="SALE_UNIQUE_ID_355_BOUGHT" value="false" />
+    <boolean name="PREFS_TARGETSALE_HAT_POPUP" value="false" />
+    <int name="MAP_LEVEL_STATE_0-7" value="2" />
+    <boolean name="SALE_UNIQUE_ID_393_BOUGHT" value="false" />
+    <int name="MAP_LEVEL_STATE_0-8" value="2" />
+    <int name="MAP_LEVEL_STATE_0-5" value="2" />
+    <int name="MAP_LEVEL_STATE_0-6" value="2" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_CpVZdsLRWg8" value="true" />
+    <long name="PREFS__SESSION_HELPER__LAST_SESSION_START_STEADY_TIME" value="127673" />
+    <int name="MAP_LEVEL_STATE_0-3" value="2" />
+    <int name="MAP_LEVEL_STATE_0-4" value="2" />
+    <int name="MAP_LEVEL_STATE_0-1" value="2" />
+    <boolean name="com.zeptolab.ctr2.f2p.hat4_BOUGHT" value="false" />
+    <int name="MAP_LEVEL_STATE_0-2" value="2" />
+    <boolean name="PREFS_TOS_POPUP_SHOWN_FIRST_TIME" value="true" />
+    <int name="MAP_LEVEL_STATE_0-0" value="2" />
+    <boolean name="SALE_UNIQUE_ID_388_BOUGHT" value="false" />
+    <boolean name="SALE_UNIQUE_ID_382_BOUGHT" value="false" />
+    <boolean name="SALE_UNIQUE_ID_399_BOUGHT" value="false" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_-2Hn--dq7Js" value="true" />
+    <int name="MAP_LEVEL_STATE_0-9" value="2" />
+    <int name="PREFS_STORE_LAST_CUSTOMIZATION_PRODUCT" value="7" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_bOrBg5vPON8" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_GdJCkGKby7A" value="true" />
+    <int name="PREFS_LEVELS_WON_SINCE_LAST_BB_CROSS_PROMO" value="853" />
+    <boolean name="SALE_UNIQUE_ID_344_BOUGHT" value="false" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_8bZGu0bock4" value="true" />
+    <boolean name="PREFS_NOTIFICATIONS_OFF" value="false" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_Q6zXj0_TyrI" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_E24qJnBZMF8" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_2AJs6BSnLBo" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_cexUdYsMaPg" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_L63__x4mfE0" value="true" />
+    <int name="MAP_LEVEL_STATE_3-20" value="2" />
+    <int name="MAP_LEVEL_STATE_3-21" value="2" />
+    <int name="MAP_LEVEL_STATE_3-22" value="2" />
+    <int name="MAP_LEVEL_STATE_3-23" value="2" />
+    <float name="PREFS_ACHIEVEMENT__com.zeptolab.ctr2.f2p.acMarketCompleted" value="100.0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_Gi6mT_AgrII" value="true" />
+    <int name="PREFS_FACEBOOK_FRIENDS_COUNT" value="-1" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_j9x-3w3rP1w" value="true" />
+    <int name="SESSIONLEVELS_SUBSCRIPTION_COUNTER" value="0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_y4dqK54gEcE" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_qhAs1h7iapg" value="true" />
+    <boolean name="PREFS_OMNOM_POSITION_APPLIED" value="false" />
+    <boolean name="SALE_UNIQUE_ID_390_BOUGHT" value="false" />
+    <int name="PREFS_LEVEL_STATUS__3_9" value="457427" />
+    <boolean name="SALE_UNIQUE_ID_411_BOUGHT" value="false" />
+    <int name="PREFS_LEVEL_STATUS__3_8" value="656099" />
+    <int name="PREFS_LEVEL_STATUS__3_3" value="1696243" />
+    <int name="PREFS_GAME_MUSIC" value="1" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_qShQK5XrM9g" value="true" />
+    <int name="PREFS_LEVEL_STATUS__3_2" value="1647475" />
+    <int name="PREFS_LEVEL_STATUS__3_1" value="1663475" />
+    <int name="PREFS_LEVEL_STATUS__3_0" value="1779571" />
+    <int name="PREFS_LEVEL_STATUS__3_7" value="594147" />
+    <int name="PREFS_LEVEL_STATUS__3_6" value="566131" />
+    <int name="PREFS_LEVEL_STATUS__3_5" value="384099" />
+    <int name="pref_banner_show_counter_2490" value="1" />
+    <int name="PREFS_LEVEL_STATUS__3_4" value="1432691" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_tjt5Q3Vc0YI" value="true" />
+    <int name="com.zeptolab.ctr2.f2p.coins_free" value="4710" />
+    <int name="MAP_CHEST_STATE_13b" value="3" />
+    <boolean name="SALE_UNIQUE_ID_407_BOUGHT" value="false" />
+    <int name="PREFS_MAX_EPISODE_INDEX" value="-1" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_k3afDh2ytqc" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_8yBuRNyw-fY" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_P5eOoDpprR8" value="true" />
+    <int name="com.zeptolab.ctr2.f2p.speciallevels6" value="0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_e_RJRa-urzI" value="true" />
+    <int name="com.zeptolab.ctr2.f2p.speciallevels5" value="0" />
+    <int name="com.zeptolab.ctr2.f2p.speciallevels7" value="0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_CLZLrYKDtBc" value="true" />
+    <long name="SUBSCRIPTION_POPUP_LAST_SHOW_TIMESTAMP" value="1768823937" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_ielzIt_r8ZI" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_KWsBE-wKslg" value="true" />
+    <string name="PREFS_MISSION_WIDGET_EDITION">20.04.2015</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_RbyKRYnuzmQ" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_wWu_4u-pCHE" value="true" />
+    <string name="com.zeptolab.ctr2.f2p.hat3_HASH">ca0bca078d582543597699e5d0fb429a</string>
+    <int name="PREFS_LEVEL_STATUS_EXT1_5_21" value="33507680" />
+    <int name="MAP_CHEST_STATE_11b" value="3" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_5_20" value="0" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_5_23" value="28218448" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_5_22" value="30625996" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_3TXP3d4_pOY" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_mXmFTVIZYto" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_gjL3rTqo0yg" value="true" />
+    <int name="MAP_LEVEL_STATE_5-2" value="2" />
+    <int name="MAP_LEVEL_STATE_5-3" value="2" />
+    <int name="MAP_LEVEL_STATE_5-0" value="2" />
+    <int name="MAP_LEVEL_STATE_5-1" value="2" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_kpqW7Z4kXIc" value="true" />
+    <int name="PREFS_ACTIVE_DAILY_BANNER_PACK" value="0" />
+    <boolean name="PREFS_SHOULD_SHOW_COME_BACK_PRESENT" value="false" />
+    <boolean name="PREFS_HUD_POWERLIST_EXPANDED" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_kgrcX30sHEc" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_nye6bc58Bbg" value="true" />
+    <int name="MAP_LEVEL_STATE_5-8" value="2" />
+    <int name="MAP_LEVEL_STATE_5-9" value="2" />
+    <int name="MAP_LEVEL_STATE_5-6" value="2" />
+    <int name="MAP_LEVEL_STATE_5-7" value="2" />
+    <int name="MAP_LEVEL_STATE_5-4" value="2" />
+    <int name="MAP_LEVEL_STATE_5-5" value="2" />
+    <string name="PREFS_GAMECENTER_ID">a_4242106858518685100</string>
+    <boolean name="GIFT_TUTORIAL_SHOP" value="false" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_Rgn29iWQuQI" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_XnMzJjVTYeE" value="true" />
+    <int name="PREFS_LEVEL_STATUS__6_17" value="384099" />
+    <int name="PREFS_LEVEL_STATUS__6_16" value="115" />
+    <int name="PREFS_LEVEL_STATUS__6_15" value="615139" />
+    <boolean name="SALE_UNIQUE_ID_370_BOUGHT" value="false" />
+    <int name="PREFS_LEVEL_STATUS__6_14" value="633715" />
+    <int name="PREFS_LEVEL_STATUS__6_19" value="433891" />
+    <int name="PREFS_LEVEL_STATUS__6_18" value="1432691" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_0_LEVEL_3">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_0_LEVEL_2">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_0_LEVEL_1">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_0_LEVEL_0">{&quot;coin_collected&quot;:{}}</string>
+    <int name="PREFS_LEVEL_STATUS__6_13" value="1432675" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_0_LEVEL_7">{&quot;coin_collected&quot;:{}}</string>
+    <int name="PREFS_ACTIVE_SPONSORSHIP_PACK" value="0" />
+    <int name="PREFS_LEVEL_STATUS__6_12" value="384099" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_0_LEVEL_6">{&quot;coin_collected&quot;:{}}</string>
+    <int name="PREFS_LEVEL_STATUS__6_11" value="4194403" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_0_LEVEL_5">{&quot;coin_collected&quot;:{}}</string>
+    <int name="PREFS_LEVEL_STATUS__6_10" value="468451" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_0_LEVEL_4">{&quot;coin_collected&quot;:{}}</string>
+    <int name="PREFS_LEVEL_STATUS_EXT1_5_18" value="4300" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_5_17" value="0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_5jeI_f2yUNI" value="true" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_0_LEVEL_9">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_0_LEVEL_8">{&quot;coin_collected&quot;:{}}</string>
+    <int name="PREFS_LEVEL_STATUS_EXT1_5_19" value="24436736" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_5_14" value="22679756" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_5_13" value="0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_266tB5IUVMk" value="true" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_5_16" value="0" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_5_15" value="16390500" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_5_10" value="16387400" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_5_12" value="35479552" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_5_11" value="16387100" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_ZdqUBKy9lbg" value="true" />
+    <long name="PREFS__SESSION_HELPER__LAST_SESSION_FINISH_STEADY_TIME" value="127674" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_4_LEVEL_19">{&quot;coin_collected&quot;:{}}</string>
+    <boolean name="PREFS_TUTORIAL_BALLOONS_LITE_PREMIUM_ACTIVE" value="false" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_4_LEVEL_17">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_4_LEVEL_18">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_4_LEVEL_15">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_4_LEVEL_16">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_4_LEVEL_13">{&quot;coin_collected&quot;:{}}</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_1YyguL3c8aQ" value="true" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_4_LEVEL_14">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_4_LEVEL_11">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_4_LEVEL_12">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_4_LEVEL_10">{&quot;coin_collected&quot;:{}}</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_O9FFaEcTA6Y" value="true" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_1_LEVEL_21">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_1_LEVEL_22">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_1_LEVEL_20">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_1_LEVEL_23">{&quot;coin_collected&quot;:{}}</string>
+    <boolean name="SALE_UNIQUE_ID_418_BOUGHT" value="false" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_Xoqorxnoaac" value="true" />
+    <int name="com.zeptolab.ctr2.f2p.bombs_EARNED_FOR_FREE" value="28" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_1_LEVEL_10">{&quot;coin_collected&quot;:{}}</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_V_qFYBIi5jY" value="true" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_1_LEVEL_11">{&quot;coin_collected&quot;:{}}</string>
+    <boolean name="SALE_UNIQUE_ID_369_BOUGHT" value="false" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_1_LEVEL_14">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_1_LEVEL_15">{&quot;coin_collected&quot;:{}}</string>
+    <int name="MAP_CHEST_STATE_16d" value="3" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_1_LEVEL_12">{&quot;coin_collected&quot;:{}}</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_xm8C5Zi_FoY" value="true" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_1_LEVEL_13">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_1_LEVEL_18">{&quot;coin_collected&quot;:{}}</string>
+    <boolean name="SALE_UNIQUE_ID_400_BOUGHT" value="false" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_1_LEVEL_19">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_1_LEVEL_16">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_1_LEVEL_17">{&quot;coin_collected&quot;:{}}</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_kkajX2mozpc" value="true" />
+    <int name="MAP_CHEST_STATE_16b" value="3" />
+    <int name="MAP_CHEST_STATE_16c" value="3" />
+    <int name="PREFS_LEVEL_STATUS__6_20" value="609379" />
+    <int name="PREFS_LEVEL_STATUS__6_23" value="1588067" />
+    <int name="PREFS_LEVEL_STATUS__6_22" value="384099" />
+    <int name="PREFS_LEVEL_STATUS__6_21" value="509283" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_XkHO67gMO0E" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_yB94SvRd9sg" value="true" />
+    <int name="ENERGY_REFUEL_SPEED" value="300" />
+    <long name="HARDCODE_SALE_4_FINISH" value="0" />
+    <boolean name="PREFS_PERSONAL_OFFER_birthday_PURCHASED" value="false" />
+    <int name="com.zeptolab.ctr2.fingertrace1" value="0" />
+    <int name="com.zeptolab.ctr2.fingertrace2" value="0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_Dljduouv11M" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_B7zitduDHpo" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_c_PlcT97YWA" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_KWiutGF5E3Q" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_NcfykeN27r4" value="true" />
+    <boolean name="SALE_UNIQUE_ID_358_BOUGHT" value="false" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_BOE76b0o7SE" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_1tZOgE2Q6NI" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_bYHG3zyzCnQ" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_HAcM4cZm_DI" value="true" />
+    <int name="com.zeptolab.ctr2.fingertrace7" value="0" />
+    <int name="com.zeptolab.ctr2.fingertrace8" value="0" />
+    <int name="com.zeptolab.ctr2.fingertrace9" value="0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_7KOgb3BeDJM" value="true" />
+    <int name="com.zeptolab.ctr2.fingertrace3" value="0" />
+    <int name="com.zeptolab.ctr2.fingertrace4" value="0" />
+    <int name="com.zeptolab.ctr2.fingertrace5" value="0" />
+    <string name="com.zeptolab.ctr2.f2p.fingertrace3_HASH">d32d4d057c2588ebad3f691cfad342b0</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_0Slz8jL_lFg" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_O4-XJR8eICM" value="true" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_3_8" value="21061632" />
+    <boolean name="PREFS_TARGETSALE_POWERUP_POPUP_com.zeptolab.ctr2.f2p.hints" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_gRipjKZjXhI" value="true" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_3_9" value="30720000" />
+    <int name="PREFS_LEVEL_STATUS__50_8" value="0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_Grox1X3d83Q" value="true" />
+    <int name="PREFS_LEVEL_STATUS__50_9" value="0" />
+    <long name="PREFS_LOCAL_NOTIF_WEEKLY_STR_ID" value="118292596" />
+    <int name="PREFS_LEVEL_STATUS__50_2" value="0" />
+    <int name="PREFS_LEVEL_STATUS__50_3" value="0" />
+    <int name="PREFS_LEVEL_STATUS__50_0" value="0" />
+    <int name="PREFS_LEVEL_STATUS__50_1" value="0" />
+    <int name="PREFS_LEVEL_STATUS__50_6" value="0" />
+    <int name="PREFS_LEVEL_STATUS__50_7" value="0" />
+    <int name="PREFS_LEVEL_STATUS__50_4" value="0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_-nQXpv4XaD4" value="true" />
+    <int name="PREFS_LEVEL_STATUS__50_5" value="0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_D6FDbZJjOeA" value="true" />
+    <int name="PREFS_TIMES_WON_2_10" value="7" />
+    <int name="PREFS_TIMES_WON_2_11" value="7" />
+    <int name="PREFS_TIMES_WON_2_12" value="4" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_3_6" value="35443092" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_3_7" value="0" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_3_4" value="29034648" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_3_5" value="0" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_3_2" value="38188312" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_3_3" value="37572212" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_3_0" value="38586420" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_3_1" value="37195380" />
+    <float name="MAP_GATES_TIMEOUT_2" value="0.0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_4aKQji5jMMs" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_d1qNuprtXoc" value="true" />
+    <float name="MAP_GATES_TIMEOUT_7" value="0.0" />
+    <float name="MAP_GATES_TIMEOUT_6" value="0.0" />
+    <float name="MAP_GATES_TIMEOUT_5" value="0.0" />
+    <float name="MAP_GATES_TIMEOUT_4" value="0.0" />
+    <boolean name="SALE_UNIQUE_ID_332_BOUGHT" value="false" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_JpiMrgT5_SE" value="true" />
+    <boolean name="PREFS_FTP_2ND_3RD_MEDALS_INTRODUCED" value="true" />
+    <float name="PREFS_ACHIEVEMENT__com.zeptolab.ctr2.f2p.acForestCompleted" value="100.0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_suebMgB520c" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_VHV8DurXkBU" value="true" />
+    <boolean name="PREFS_SPIN_TO_WIN_SPIN_OPENED" value="true" />
+    <boolean name="SALE_UNIQUE_ID_373_BOUGHT" value="false" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_CnkataFStyQ" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_1VtTwTptSs4" value="true" />
+    <string name="PREFS_CTR2_EXTENSIONS_RATE_ME_POSTPONED_POPUPS_LIST"></string>
+    <int name="CONSECUTIVEWINS_SUBSCRIPTION_COUNTER_timestamp" value="20473" />
+    <float name="MAP_GATES_TIMEOUT_8" value="0.0" />
+    <int name="PREFS_TIMES_WON_1_4" value="8" />
+    <int name="PREFS_TIMES_WON_1_3" value="4" />
+    <int name="PREFS_TIMES_WON_1_6" value="20" />
+    <int name="PREFS_TIMES_WON_1_5" value="6" />
+    <int name="PREFS_TIMES_WON_1_0" value="3" />
+    <int name="PREFS_TIMES_WON_1_2" value="7" />
+    <int name="PREFS_TIMES_WON_1_1" value="15" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_HbNepuhrtMI" value="true" />
+    <int name="PREFS_TIMES_WON_1_8" value="3" />
+    <int name="PREFS_TIMES_WON_1_7" value="5" />
+    <int name="PREFS_TIMES_WON_1_9" value="15" />
+    <long name="HARDCODE_SALE_2_START" value="1767715947" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_TxOly_sz_bU" value="true" />
+    <string name="com.zeptolab.ctr2.f2p.bombs4_HASH">8a0fbcffe588d264ccd44dedc7554a99</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_xPQDUlxKyqg" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_GlUHgHZ-ooI" value="true" />
+    <string name="com.zeptolab.ctr2.f2p.fingertrace5_HASH">f861830c45dd2860f7b9ce906dd4947b</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_X04XSAnyqlg" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_NczOj4SH4XE" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_OwMpN3h5IVQ" value="true" />
+    <int name="com.zeptolab.ctr2.f2p.candyskin8" value="0" />
+    <int name="com.zeptolab.ctr2.f2p.candyskin7" value="0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_gmQjYw5iEgU" value="true" />
+    <float name="PREFS_ACHIEVEMENT__com.zeptolab.ctr2.f2p.acParkCompleted" value="100.0" />
+    <int name="com.zeptolab.ctr2.f2p.candyskin9" value="0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_WzFUWen3P-k" value="true" />
+    <int name="com.zeptolab.ctr2.f2p.candyskin2" value="0" />
+    <int name="com.zeptolab.ctr2.f2p.candyskin1" value="1" />
+    <int name="com.zeptolab.ctr2.f2p.candyskin4" value="0" />
+    <int name="com.zeptolab.ctr2.f2p.candyskin3" value="2" />
+    <int name="com.zeptolab.ctr2.f2p.candyskin5" value="0" />
+    <int name="com.zeptolab.ctr2.f2p.coins_free_EARNED_FOR_FREE" value="8410" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_8jTkEcB9imo" value="true" />
+    <int name="com.zeptolab.ctr2.coins_free" value="0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_FqbUx0uEkjI" value="true" />
+    <boolean name="SALE_UNIQUE_ID_354_BOUGHT" value="false" />
+    <int name="AFTERLOADER_SUBSCRIPTION_COUNTER_timestamp" value="20473" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_mUJv2LjIQQI" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_JeEnLkLSsIE" value="true" />
+    <boolean name="SALE_UNIQUE_ID_351_BOUGHT" value="false" />
+    <boolean name="SALE_UNIQUE_ID_395_BOUGHT" value="false" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_2GIAIG4-QGM" value="true" />
+    <int name="PREFS_CURRENT_LEVEL" value="11" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_7IauHn20f9o" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_P7s_f5vaT4E" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_11UveEuESyw" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_G7avcO9faFM" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_TxQ_K6QFYv4" value="true" />
+    <int name="VIDEO_ADS_WATCHED" value="1" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_WSMzUVdSnHc" value="true" />
+    <int name="PREFS_SPIN_TO_WIN_SPINS_USED" value="1" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_kocDezWe_Wg" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_MAxfqO6YDT4" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_YKxMsVdur-s" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_VmidI7SG2I4" value="true" />
+    <int name="CHARACTER_SHOWN" value="255" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_atmToaLIVlk" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_VmHUrjxRx3c" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_HBzlOQ9S99A" value="true" />
+    <int name="com.zeptolab.ctr2.f2p.coins_free_BOUGHT" value="0" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_4_LEVEL_22">{&quot;coin_collected&quot;:{}}</string>
+    <boolean name="SALE_UNIQUE_ID_348_BOUGHT" value="false" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_4_LEVEL_23">{&quot;coin_collected&quot;:{}}</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_X6uZd1jP_ZM" value="true" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_4_LEVEL_20">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_4_LEVEL_21">{&quot;coin_collected&quot;:{}}</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_8DYlmkyvA84" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_SUBIfUo2-1Y" value="true" />
+    <boolean name="SALE_UNIQUE_ID_381_BOUGHT" value="false" />
+    <boolean name="com.zeptolab.ctr2.f2p.hat3_BOUGHT" value="false" />
+    <boolean name="SALE_UNIQUE_ID_389_BOUGHT" value="false" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_GmFQtcA37RM" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_HpqOOmblXhs" value="true" />
+    <int name="PREFS_SESSION_COUNT" value="110" />
+    <long name="PREF_SUBSC_DAILY_REWARD_TIMESTAMP" value="0" />
+    <boolean name="PREFS_FTP_MISSIONS_TUTORUAL_2ND_MEDAL_PLAYED" value="true" />
+    <string name="com.zeptolab.ctr2.f2p.speciallevels3_HASH">76652e599b90639be9c14ede5f2a8d1e</string>
+    <int name="PREFS_TIMES_WON_5_13" value="1" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_S0Y3d71eLuo" value="true" />
+    <int name="PREFS_TIMES_WON_5_12" value="8" />
+    <int name="PREFS_TIMES_WON_5_15" value="4" />
+    <int name="PREFS_TIMES_WON_5_14" value="4" />
+    <int name="PREFS_TIMES_WON_5_11" value="4" />
+    <int name="PREFS_TIMES_WON_5_10" value="7" />
+    <int name="com.zeptolab.ctr2.candyskin7" value="0" />
+    <int name="com.zeptolab.ctr2.candyskin8" value="0" />
+    <int name="com.zeptolab.ctr2.candyskin5" value="0" />
+    <int name="com.zeptolab.ctr2.candyskin3" value="0" />
+    <boolean name="com.zeptolab.ctr2.f2p.fingertrace8_BOUGHT" value="false" />
+    <int name="com.zeptolab.ctr2.candyskin4" value="0" />
+    <int name="com.zeptolab.ctr2.candyskin1" value="0" />
+    <string name="PREFS_SPIN_TO_WIN_RANDOM_SPECIAL_REWARD">inapp_1_fingertrace2_1</string>
+    <int name="com.zeptolab.ctr2.candyskin2" value="0" />
+    <boolean name="PREFS_PLAY_INTRO" value="false" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_B41pjn0soQs" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_3oc8hBIAHM8" value="true" />
+    <int name="PREFS_TIMES_WON_5_17" value="1" />
+    <int name="PREFS_TIMES_WON_5_16" value="2" />
+    <int name="PREFS_TIMES_WON_5_19" value="2" />
+    <int name="PREFS_TIMES_WON_5_18" value="4" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_kblrWwvAYts" value="true" />
+    <int name="PREFS_TIMES_WON_5_23" value="3" />
+    <int name="PREFS_TIMES_WON_5_20" value="2" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_mXnf9ZHhHh0" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_hBT4lqwFPUQ" value="true" />
+    <int name="PREFS_TIMES_WON_5_22" value="4" />
+    <int name="PREFS_TIMES_WON_5_21" value="4" />
+    <int name="PREFS_LAST_DAILY_BANNER_SENDED" value="0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_SgAmi49Frxc" value="true" />
+    <int name="MAP_LEVEL_STATE_2-23" value="2" />
+    <float name="PREFS_ACHIEVEMENT__com.zeptolab.ctr2.f2p.acJunkyardPerfect" value="95.833336" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_mRyY63fUzVc" value="true" />
+    <int name="MAP_LEVEL_STATE_2-20" value="2" />
+    <float name="PREFS_ACHIEVEMENT__com.zeptolab.ctr2.f2p.acBakeryPerfect" value="100.0" />
+    <int name="MAP_LEVEL_STATE_2-21" value="2" />
+    <int name="MAP_LEVEL_STATE_2-22" value="2" />
+    <int name="MAP_LEVEL_STATE_3-4" value="2" />
+    <int name="MAP_LEVEL_STATE_3-5" value="2" />
+    <int name="com.zeptolab.ctr2.f2p.bombs_BOUGHT" value="10" />
+    <int name="MAP_LEVEL_STATE_3-2" value="2" />
+    <int name="MAP_LEVEL_STATE_3-3" value="2" />
+    <boolean name="SALE_UNIQUE_ID_376_BOUGHT" value="false" />
+    <int name="MAP_LEVEL_STATE_3-0" value="2" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_HXe2VkBNb2g" value="true" />
+    <int name="MAP_LEVEL_STATE_3-1" value="2" />
+    <string name="com.zeptolab.ctr2.f2p.candyskin5_HASH">5089b8aee66b39fa118fdca2ea3e20da</string>
+    <int name="MAP_LEVEL_STATE_2-16" value="2" />
+    <int name="MAP_LEVEL_STATE_2-17" value="2" />
+    <int name="MAP_LEVEL_STATE_2-18" value="2" />
+    <int name="MAP_LEVEL_STATE_2-19" value="2" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_ccURdyAm1hc" value="true" />
+    <int name="MAP_LEVEL_STATE_2-12" value="2" />
+    <int name="MAP_LEVEL_STATE_2-13" value="2" />
+    <int name="MAP_LEVEL_STATE_2-14" value="2" />
+    <int name="MAP_LEVEL_STATE_2-15" value="2" />
+    <int name="ENERGY_WAS_ZERO" value="14" />
+    <int name="MAP_LEVEL_STATE_2-10" value="2" />
+    <int name="MAP_LEVEL_STATE_2-11" value="2" />
+    <int name="MAP_LEVEL_STATE_3-8" value="2" />
+    <int name="MAP_LEVEL_STATE_3-9" value="2" />
+    <int name="MAP_LEVEL_STATE_3-6" value="2" />
+    <int name="MAP_LEVEL_STATE_3-7" value="2" />
+    <long name="HARDCODE_SALE_7_FINISH" value="1767773046" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_MnwQXmKRfkg" value="true" />
+    <int name="NUMBER_OF_PURCHASES" value="0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_XB2XiipmEdM" value="true" />
+    <boolean name="SALE_UNIQUE_ID_409_BOUGHT" value="false" />
+    <int name="PREFS_LEVEL_STATUS__2_18" value="522995" />
+    <int name="SESSIONLEVELS_SUBSCRIPTION_COUNTER_timestamp" value="20473" />
+    <int name="PREFS_LEVEL_STATUS__2_19" value="570211" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_BvStC4pFBKw" value="true" />
+    <int name="PREFS_LEVEL_STATUS__2_12" value="645875" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_UDNy3Rlfess" value="true" />
+    <int name="PREFS_LEVEL_STATUS__2_13" value="441587" />
+    <int name="PREFS_LEVEL_STATUS__2_10" value="1432691" />
+    <int name="PREFS_LEVEL_STATUS__2_11" value="538995" />
+    <int name="PREFS_LEVEL_STATUS__2_16" value="1710323" />
+    <int name="PREFS_LEVEL_STATUS__2_17" value="1432675" />
+    <int name="PREFS_LEVEL_STATUS__2_14" value="384115" />
+    <int name="PREFS_LEVEL_STATUS__2_15" value="1374835" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_VYkpUbYdjf4" value="true" />
+    <string name="com.zeptolab.ctr2.f2p.hat7_HASH">73c2dc084d972f7bf0d82b80505e98e8</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_uTK_7MOFV4s" value="true" />
+    <boolean name="SALE_UNIQUE_ID_403_BOUGHT" value="false" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_mMTv-GRyZq8" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_0o4VnpjGJMU" value="true" />
+    <int name="com.zeptolab.ctr2.key" value="0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_JfIPUB6DLGE" value="true" />
+    <int name="com.zeptolab.ctr2.hat9" value="0" />
+    <int name="com.zeptolab.ctr2.hat8" value="0" />
+    <int name="com.zeptolab.ctr2.hat7" value="0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_YDHCsyinTYI" value="true" />
+    <int name="com.zeptolab.ctr2.hat5" value="0" />
+    <int name="com.zeptolab.ctr2.hat4" value="0" />
+    <int name="com.zeptolab.ctr2.hat3" value="0" />
+    <int name="com.zeptolab.ctr2.hat2" value="0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_oA7Y52wnjdA" value="true" />
+    <boolean name="SALE_UNIQUE_ID_1_BOUGHT" value="false" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_gyIxO6twy3I" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_0Oqp8LafS1Q" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_gXYXKn2mFGQ" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_9DqN4gqbmxc" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_mURs8wFivNQ" value="true" />
+    <int name="com.zeptolab.ctr2.candyskin9" value="0" />
+    <int name="PREFS_LEVEL_STATUS__2_23" value="256067" />
+    <int name="PREFS_LEVEL_STATUS__2_21" value="1304691" />
+    <int name="PREFS_LEVEL_STATUS__2_22" value="497763" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_aGGm85kcTnE" value="true" />
+    <int name="com.zeptolab.ctr2.hat1" value="0" />
+    <int name="PREFS_LEVEL_STATUS__2_20" value="427299" />
+    <string name="PREFS_MIN_GAME_VERSION">1.0</string>
+    <int name="PREFS_LEVEL_STATUS_EXT1_4_9" value="37462016" />
+    <int name="LEVELS_COUNT_SINCE_UPDATE" value="853" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_4_7" value="26971664" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_4_8" value="34892128" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_OzGY_SF4Gn0" value="true" />
+    <string name="MISSION_7">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1775476800,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <float name="PREFS_ACHIEVEMENT__com.zeptolab.ctr2.f2p.acUndergroundCompleted" value="100.0" />
+    <string name="MISSION_8">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1774699200,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_fdDd86Pysmw" value="true" />
+    <string name="MISSION_9">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1773835200,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <string name="MISSION_3">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1774267200,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <string name="MISSION_4">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1774353600,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <string name="MISSION_5">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1774008000,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <string name="MISSION_6">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1774526400,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <int name="PREFS_SECRET_LEVELS_STATUS_6" value="0" />
+    <int name="PREFS_SECRET_LEVELS_STATUS_5" value="0" />
+    <string name="MISSION_1">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1774440000,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <string name="MISSION_2">{&quot;completed&quot;:0,&quot;firstAcceptStamp&quot;:0,&quot;ids&quot;:&quot;&quot;,&quot;rewarded&quot;:0,&quot;timestampStart&quot;:1775131200,&quot;value&quot;:{&quot;useInt&quot;:1,&quot;value&quot;:0}}&#10;    </string>
+    <boolean name="PREFS_PERSONAL_OFFER_school_PURCHASED" value="false" />
+    <int name="com.zeptolab.ctr2.f2p.hints_BOUGHT" value="12" />
+    <int name="PREFS_LEVEL_STATUS__4_9" value="555763" />
+    <int name="PREFS_LEVEL_STATUS__4_8" value="1304691" />
+    <int name="PREFS_SECRET_LEVELS_STATUS_0" value="0" />
+    <boolean name="PREFS_AD_DISABLED" value="false" />
+    <boolean name="SALE_UNIQUE_ID_379_BOUGHT" value="false" />
+    <int name="PREFS_LEVEL_STATUS__4_7" value="1489523" />
+    <int name="PREFS_SECRET_LEVELS_STATUS_2" value="0" />
+    <int name="PREFS_SECRET_LEVELS_STATUS_1" value="0" />
+    <string name="PREFS_JOIN_VERSION">1.44.0</string>
+    <int name="PREFS_SECRET_LEVELS_STATUS_4" value="0" />
+    <int name="PREFS_SECRET_LEVELS_STATUS_3" value="0" />
+    <int name="PREFS_LEVEL_STATUS__4_2" value="658291" />
+    <int name="PREFS_LEVEL_STATUS__4_1" value="1459315" />
+    <int name="PREFS_LEVEL_STATUS__4_0" value="1746675" />
+    <int name="PREFS_LEVEL_STATUS__4_6" value="508275" />
+    <int name="PREFS_LEVEL_STATUS__4_5" value="1564787" />
+    <int name="PREFS_LEVEL_STATUS__4_4" value="1746803" />
+    <int name="PREFS_LEVEL_STATUS__4_3" value="1676147" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_4_5" value="32888188" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_4_6" value="33865728" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_4_3" value="36179072" />
+    <boolean name="PREFS_NOT_FIRST_TIME_NEW_VIDEO_POPUP_KEY" value="true" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_4_4" value="36480776" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_4_1" value="35287744" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_4_2" value="31744000" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_jPN6uVkkXMI" value="true" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_4_0" value="37652332" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_O9lOrXvV7Zs" value="true" />
+    <boolean name="SUBSCRIPTION_POPUP_SHOWN_FIRST_TIME" value="true" />
+    <long name="HARDCODE_SALE_8_START" value="1768625307" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_Mks8eZT3qsY" value="true" />
+    <boolean name="SALE_UNIQUE_ID_360_BOUGHT" value="false" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_GwbFSjwkPrk" value="true" />
+    <string name="com.zeptolab.ctr2.f2p.hat4_HASH">40083e107fb82ecd2bc4614e0adb5892</string>
+    <boolean name="PREFS_INITIAL_POWERUPS_INCREASE" value="true" />
+    <boolean name="SALE_UNIQUE_ID_394_BOUGHT" value="false" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_JnuEidxGI98" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_kJWjMykryuA" value="true" />
+    <boolean name="SALE_UNIQUE_ID_415_BOUGHT" value="false" />
+    <boolean name="SALE_UNIQUE_ID_398_BOUGHT" value="false" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_6_19" value="0" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_6_18" value="19518544" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_6_15" value="0" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_6_14" value="35687352" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_6_17" value="0" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_6_16" value="0" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_6_11" value="0" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_6_10" value="0" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_6_13" value="6300" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_6_12" value="0" />
+    <string name="com.zeptolab.ctr2.f2p.hints5_HASH">2c3054902cb4dc438d32315f1d906446</string>
+    <boolean name="PREFS_PUSH_SERVER_REGISTRATION_REQUESTED" value="false" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_T9SaGMCckhk" value="true" />
+    <string name="PREF_SUBSC_DAILY_REWARD__HASH">97461106edb8b52ad711acc2683277f4</string>
+    <boolean name="PREF_TRANSACTIONS_RESTORED" value="true" />
+    <boolean name="PREFS_MISSION_WIDGET_ENABLED" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_f5xcjLHqkX4" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_GiDddSRBtjE" value="true" />
+    <int name="MAP_LEVEL_STATE_4-3" value="2" />
+    <int name="MAP_LEVEL_STATE_4-4" value="2" />
+    <int name="MAP_LEVEL_STATE_4-1" value="2" />
+    <int name="MAP_LEVEL_STATE_4-2" value="2" />
+    <int name="MAP_LEVEL_STATE_4-0" value="2" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_6_22" value="0" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_6_21" value="0" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_6_23" value="20550936" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_6_20" value="0" />
+    <int name="MAP_LEVEL_STATE_4-9" value="2" />
+    <int name="MAP_LEVEL_STATE_4-7" value="2" />
+    <int name="pref_banner_show_counter_2595" value="38" />
+    <int name="MAP_LEVEL_STATE_4-8" value="2" />
+    <int name="MAP_LEVEL_STATE_4-5" value="2" />
+    <int name="MAP_LEVEL_STATE_4-6" value="2" />
+    <string name="daily_spin_day_0">gold_50_</string>
+    <string name="daily_spin_day_1">bomb_2_</string>
+    <int name="com.zeptolab.ctr2.f2p.teleports_EARNED_FOR_FREE" value="13" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_OznQ4RRIiyI" value="true" />
+    <string name="daily_spin_day_2">gold_100_</string>
+    <string name="daily_spin_day_3">balloons_3_</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_ZbUe1_ijw4M" value="true" />
+    <string name="daily_spin_day_4">balloons_2_</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_oEnNMldjars" value="true" />
+    <int name="MAP_LEVEL_STATE_6-23" value="2" />
+    <int name="MAP_LEVEL_STATE_6-21" value="2" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_eAJsunQSwko" value="true" />
+    <int name="MAP_LEVEL_STATE_6-22" value="2" />
+    <int name="MAP_LEVEL_STATE_6-20" value="2" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_bj3cbCE56wQ" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_esD-elCI818" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_MM1usa8Q6cw" value="true" />
+    <int name="com.zeptolab.ctr2.f2p.coins_unlim" value="0" />
+    <int name="MAP_LEVEL_STATE_6-18" value="2" />
+    <int name="MAP_LEVEL_STATE_6-19" value="2" />
+    <int name="MAP_LEVEL_STATE_6-16" value="2" />
+    <int name="MAP_LEVEL_STATE_6-17" value="2" />
+    <int name="MAP_LEVEL_STATE_6-14" value="2" />
+    <int name="MAP_LEVEL_STATE_6-15" value="2" />
+    <int name="MAP_LEVEL_STATE_6-12" value="2" />
+    <int name="MAP_LEVEL_STATE_6-13" value="2" />
+    <int name="MAP_LEVEL_STATE_6-10" value="2" />
+    <int name="MAP_LEVEL_STATE_6-11" value="2" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_JVhy4cytOeY" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_3g0wS6sZ6Pk" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_-gjnOBzpFCo" value="true" />
+    <int name="PREFS_TIMES_WON_6_1" value="4" />
+    <int name="PREFS_TIMES_WON_6_0" value="3" />
+    <boolean name="PREFS_EASTER_CONTENT" value="false" />
+    <int name="PREFS_TIMES_WON_6_7" value="2" />
+    <int name="PREFS_TIMES_WON_6_6" value="2" />
+    <int name="ENERGY_MAX_POOL" value="90" />
+    <int name="PREFS_TIMES_WON_6_9" value="2" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_FLT9glFm7Hg" value="true" />
+    <int name="PREFS_TIMES_WON_6_8" value="3" />
+    <int name="PREFS_TIMES_WON_6_3" value="1" />
+    <int name="PREFS_TIMES_WON_6_2" value="4" />
+    <int name="PREFS_TIMES_WON_6_5" value="6" />
+    <int name="PREFS_TIMES_WON_6_4" value="4" />
+    <boolean name="SALE_UNIQUE_ID_335_BOUGHT" value="false" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_SINjICZeKsw" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_buJ-4AMV5LE" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_UxKO11uEmAs" value="true" />
+    <float name="PREFS_MONEY_SPENT" value="0.0" />
+    <boolean name="com.zeptolab.ctr2.f2p.fingertrace4_BOUGHT" value="false" />
+    <int name="PREFS_LEVEL_STATUS__0_6" value="1432691" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_0_1" value="0" />
+    <int name="PREFS_LEVEL_STATUS__0_5" value="1463411" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_0_2" value="0" />
+    <int name="PREFS_LEVEL_STATUS__0_4" value="1780467" />
+    <int name="PREFS_LEVEL_STATUS__0_3" value="631139" />
+    <int name="KEY_CURRENT_WEIGHT_0_4" value="0" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_0_0" value="0" />
+    <int name="PREFS_LEVEL_STATUS__0_9" value="1776115" />
+    <int name="PREFS_LEVEL_STATUS__0_8" value="1633523" />
+    <int name="KEY_CURRENT_WEIGHT_0_1" value="0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_3IruJzzzjjc" value="true" />
+    <int name="PREFS_LEVEL_STATUS__0_7" value="1432691" />
+    <int name="KEY_CURRENT_WEIGHT_0_0" value="0" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_0_9" value="37957736" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_0_7" value="36424232" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_0_8" value="26742288" />
+    <int name="PREFS_LEVEL_STATUS__0_2" value="693603" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_0_5" value="30894532" />
+    <int name="PREFS_LEVEL_STATUS__0_1" value="680547" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_0_6" value="37039532" />
+    <int name="PREFS_LEVEL_STATUS__0_0" value="729443" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_0_3" value="0" />
+    <int name="PREFS_LEVEL_STATUS_EXT1_0_4" value="38627280" />
+    <boolean name="PREFS_HUD_POWERLIST_FORCE_EXPAND" value="false" />
+    <int name="pref_banner_show_counter_2549" value="94" />
+    <int name="PREFS_LAUNCHES_COUNT" value="111" />
+    <boolean name="SALE_UNIQUE_ID_4_BOUGHT" value="false" />
+    <float name="PREFS_ACHIEVEMENT__com.zeptolab.ctr2.f2p.acUndergroundPerfect" value="100.0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_ilzKZSuYyxE" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_PF2DcwzMzp8" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_KBChl6kpXi8" value="true" />
+    <string name="com.zeptolab.ctr2.f2p.fingertrace8_HASH">1d42bd4e6639aa0ef0a9cb8ac23a966a</string>
+    <float name="PREFS_TARGETSALE_USER_GIVEUP_GIFT_TIMESTAMP" value="0.0" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_E7m3eISE4s8" value="true" />
+    <string name="com.zeptolab.ctr2.f2p.hat1_HASH">db035969223d729b389510250a5db29e</string>
+    <string name="com.zeptolab.ctr2.f2p.candyskin2_HASH">8d29234eef47cf26791bbd9eb4b7518b</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_Ohj7OBbXR9A" value="true" />
+    <string name="com.zeptolab.ctr2.f2p.key_HASH">a3daf9e8f1b2b1dba2381df8e59e52d5</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_ybr9BTwfAx0" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_U6iVvIxde2M" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_UNb1AGVKr3c" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_zYsoKmmKH7E" value="true" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_6_LEVEL_1">{&quot;coin_collected&quot;:{}}</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_OJaasrknGvA" value="true" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_6_LEVEL_0">{&quot;coin_collected&quot;:{}}</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_asRnuvxvYAg" value="true" />
+    <boolean name="SALE_UNIQUE_ID_406_BOUGHT" value="false" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_g044jK54SNg" value="true" />
+    <int name="PREFS_TIMES_WON_1_10" value="8" />
+    <int name="PREFS_TIMES_WON_1_11" value="7" />
+    <long name="HARDCODE_SALE_7_START" value="1767686646" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_gdIildR4rmM" value="true" />
+    <boolean name="SALE_UNIQUE_ID_357_BOUGHT" value="false" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_bxKubE_eoj8" value="true" />
+    <boolean name="SALE_UNIQUE_ID_391_BOUGHT" value="false" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_NR-Cvd-nmLg" value="true" />
+    <int name="PREFS_TIMES_WON_1_16" value="12" />
+    <int name="PREFS_TIMES_WON_1_17" value="7" />
+    <int name="PREFS_TIMES_WON_1_18" value="10" />
+    <int name="PREFS_TIMES_WON_1_19" value="7" />
+    <boolean name="SALE_UNIQUE_ID_412_BOUGHT" value="false" />
+    <int name="PREFS_TIMES_WON_1_12" value="6" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_fhNl8qQwX6w" value="true" />
+    <int name="PREFS_TIMES_WON_1_13" value="7" />
+    <int name="PREFS_TIMES_WON_1_14" value="6" />
+    <long name="HARDCODE_SALE_4_START" value="0" />
+    <int name="PREFS_TIMES_WON_1_15" value="6" />
+    <int name="PREFS_TIMES_WON_1_20" value="4" />
+    <int name="PREFS_TIMES_WON_1_21" value="5" />
+    <int name="PREFS_TIMES_WON_1_22" value="5" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_0D11YKwSLfw" value="true" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_6_LEVEL_7">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_6_LEVEL_6">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_6_LEVEL_9">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_6_LEVEL_8">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_6_LEVEL_3">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_6_LEVEL_2">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_6_LEVEL_5">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_6_LEVEL_4">{&quot;coin_collected&quot;:{}}</string>
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_jN4qDRBbis4" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_b_4ei2Zvrtk" value="true" />
+    <boolean name="PREFS_NEW_VIDEO_POPUP_KEY_PREFIX_Ul-ZVT_AvoU" value="true" />
+    <boolean name="com.zeptolab.ctr2.f2p.candyskin9_BOUGHT" value="false" />
+    <int name="PREFS_TIMES_WON_1_23" value="4" />
+    <boolean name="SALE_UNIQUE_ID_363_BOUGHT" value="false" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_1_LEVEL_6">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_1_LEVEL_5">{&quot;coin_collected&quot;:{}}</string>
+    <boolean name="SALE_UNIQUE_ID_341_BOUGHT" value="false" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_1_LEVEL_4">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_1_LEVEL_3">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_1_LEVEL_2">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_1_LEVEL_1">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_1_LEVEL_0">{&quot;coin_collected&quot;:{}}</string>
+    <boolean name="SALE_UNIQUE_ID_385_BOUGHT" value="false" />
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_1_LEVEL_9">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_1_LEVEL_8">{&quot;coin_collected&quot;:{}}</string>
+    <string name="PREFS_COIN_FRUITS_GRID_PACK_1_LEVEL_7">{&quot;coin_collected&quot;:{}}</string>
+    <boolean name="com.zeptolab.ctr2.f2p.hat7_BOUGHT" value="false" />
+    <boolean name="PREFS_TARGETSALE_COINS_POPUP" value="true" />
+</map>

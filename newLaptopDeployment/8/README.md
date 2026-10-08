@@ -1,8 +1,8 @@
 ### 编程环境部署
 
-1) [Visual Studio](https://visualstudio.microsoft.com/)；
-2) [Python](https://www.python.org/)；
-3) [Git](https://git-scm.com/)。
+1. [Visual Studio](https://visualstudio.microsoft.com/)；
+2. [Python](https://www.python.org/)；
+3. [Git](https://git-scm.com/)。
 
 将 Python 的部署放置于 Visual Studio 之后，是因为 Python 的某些功能需要依赖于 Visual Studio。
 

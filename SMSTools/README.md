@@ -45,12 +45,12 @@ For other information, we only offer the Chinese language since those issues wil
 于是，当笔者兴致勃勃地在相应网页打开短信后，发现绝大多数厂家的云端备份服务仅提供浏览和删除短信的操作，只有一加云备份提供了下载按钮，但下载下来的是 ``.csv`` 文件，
 目前绝大多数的手机自带的短信应用都不支持对 ``.csv`` 格式的短信备份文件进行导入，且似乎也没有第三方工具支持对 ``.csv`` 格式的短信备份进行导入；而且，总不能为了因此，只能尝试曲线救国。
 
-1) 登录相应厂商的云端备份服务网页，找到短信数据，浏览，随后使用“Ctrl + S”或爬虫将每一个对话下载下来，保存为 ``.html`` 格式，利用 F12 定位关键 ``div`` 的 ``class``。
-2) 编写 Python 脚本，利用美丽的汤（``from bs4 import BeautifulSoup``）将每一个会话中的联系人号码（``address``）、收发短信的时间（``date`` 和 ``date_sent``）和内容（``body``）提取出来。
-3) 在新手机上随便发送和接收一条短信（例如可以接收一条验证码），使用 [https://github.com/tmo1/sms-ie](https://github.com/tmo1/sms-ie) 工具导出短信为 ``samples.zip``，解压获得 ``messages.ndjson``。
-4) 将提取到的每一条短信按照以下规则转换为一个字典，随后将这些字典连同上述 ``messages.json`` 送入 DeepSeek，用深度思考模式将这些字典转为 ``ndjson`` 格式。
-5) 下载 DeepSeek 输出的 ``.ndjson`` 文件，检查，包括但不限于确保短信完整性、数据结构、每一个字典以字符串的形式在 ``messages.ndjson`` 中独占一行，确认无误后，将此文件重命名为 ``messages.ndjson``。
-6) 使用压缩工具（如 7z）将新的 ``messages.ndjson`` 打包为压缩包后传输到新手机，在新手机上使用 [https://github.com/tmo1/sms-ie](https://github.com/tmo1/sms-ie) 工具完成导入即可。
+1. 登录相应厂商的云端备份服务网页，找到短信数据，浏览，随后使用“Ctrl + S”或爬虫将每一个对话下载下来，保存为 ``.html`` 格式，利用 F12 定位关键 ``div`` 的 ``class``。
+2. 编写 Python 脚本，利用美丽的汤（``from bs4 import BeautifulSoup``）将每一个会话中的联系人号码（``address``）、收发短信的时间（``date`` 和 ``date_sent``）和内容（``body``）提取出来。
+3. 在新手机上随便发送和接收一条短信（例如可以接收一条验证码），使用 [https://github.com/tmo1/sms-ie](https://github.com/tmo1/sms-ie) 工具导出短信为 ``samples.zip``，解压获得 ``messages.ndjson``。
+4. 将提取到的每一条短信按照以下规则转换为一个字典，随后将这些字典连同上述 ``messages.json`` 送入 DeepSeek，用深度思考模式将这些字典转为 ``ndjson`` 格式。
+5. 下载 DeepSeek 输出的 ``.ndjson`` 文件，检查，包括但不限于确保短信完整性、数据结构、每一个字典以字符串的形式在 ``messages.ndjson`` 中独占一行，确认无误后，将此文件重命名为 ``messages.ndjson``。
+6. 使用压缩工具（如 7z）将新的 ``messages.ndjson`` 打包为压缩包后传输到新手机，在新手机上使用 [https://github.com/tmo1/sms-ie](https://github.com/tmo1/sms-ie) 工具完成导入即可。
 
 | 字段名 | 示例 | 要求（字段的值均为字符串） |
 | - | - | - |

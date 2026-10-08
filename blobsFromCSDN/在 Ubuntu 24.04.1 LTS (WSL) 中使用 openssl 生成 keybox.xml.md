@@ -1,12 +1,12 @@
 ﻿看到“生成 keybox.xml”，大概率都会联想到 PIF 和 Tricky Store。这里就不多解释它们的用途了。最近在网上看到生成非 AOSP keybox 的教程，在这里做一些补充，并将代码打包成一个 Python 脚本。
 
 参考自：
-1) Idea 提供者：[https://xdaforums.com/t/tee-hacking.4662185/page-21#post-89847987](https://xdaforums.com/t/tee-hacking.4662185/page-21#post-89847987)~~（如果打不开或者被重定向去另一个网页可能要刷新几遍才能正确打开这个网页）~~ ，该原始 Idea 需要借助一个密码学工具网站；
-2) RSA 私钥转换：[https://stackoverflow.com/questions/17733536/how-to-convert-a-private-key-to-an-rsa-private-key](https://stackoverflow.com/questions/17733536/how-to-convert-a-private-key-to-an-rsa-private-key)。
+1. Idea 提供者：[https://xdaforums.com/t/tee-hacking.4662185/page-21#post-89847987](https://xdaforums.com/t/tee-hacking.4662185/page-21#post-89847987)~~（如果打不开或者被重定向去另一个网页可能要刷新几遍才能正确打开这个网页）~~ ，该原始 Idea 需要借助一个密码学工具网站；
+2. RSA 私钥转换：[https://stackoverflow.com/questions/17733536/how-to-convert-a-private-key-to-an-rsa-private-key](https://stackoverflow.com/questions/17733536/how-to-convert-a-private-key-to-an-rsa-private-key)。
 
 做出以下调整：
-1) 直接使用一站式脚本执行，自动利用 openssl 生成三个 PEM 文件，如果用于预检测的 ``openssl version`` 命令执行失败，自动尝试通过 ``sudo apt-get install libssl-dev`` 进行安装；
-2) 实现对新版 openssl 生成的 RSA 私钥进行识别，并从 PKCS8 转换为 PKCS1。
+1. 直接使用一站式脚本执行，自动利用 openssl 生成三个 PEM 文件，如果用于预检测的 ``openssl version`` 命令执行失败，自动尝试通过 ``sudo apt-get install libssl-dev`` 进行安装；
+2. 实现对新版 openssl 生成的 RSA 私钥进行识别，并从 PKCS8 转换为 PKCS1。
 
 直接上 Python 代码，记得以 LF 形式保存换行符，并在 Ubuntu 24.04.1 LTS 中运行。
 ```
@@ -138,9 +138,9 @@ if "__main__" == __name__:
 替换 ``/data/adb/tricky_store/keybox.xml`` 之前，记得先将原来的 ``keybox.xml``（刷入 tricky_store 时自带的那个基于 AOSP 的 keybox.xml）备份为 ``keybox.xml.bak``。
 ![截图](https://i-blog.csdnimg.cn/direct/a413d497d4f8446ba21525008911db48.jpeg)
 12月14日凌晨做了一些更新：
-1) 支持粗略检查三个子密钥文件内容，支持 OpenSSL 私钥转 RSA 私钥；
-2) 如果文件存在，程序会提示是否覆盖；
-3) 设备ID随机生成。
+1. 支持粗略检查三个子密钥文件内容，支持 OpenSSL 私钥转 RSA 私钥；
+2. 如果文件存在，程序会提示是否覆盖；
+3. 设备ID随机生成。
 
 ```
 import os

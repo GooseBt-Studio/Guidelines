@@ -88,12 +88,12 @@ options edns0 trust-ad
 search .
 ```
 ### （二）搜索其它相关解决方案（可能对其它网络问题有用可逐个尝试）
-1) 修改 ``/etc/sysconfig/network-script`` 下的配置文件，发现 cd 到这个目录时提示目录不存在；
-2) 使用 Network-Manager、networkmanger、nmcli、netset 等工具和 service XXX restart 等命令重启网络管理器，均提示不存在或服务未安装，检查发现正常状态下也没有装过这些东西，所以，尝试 ``apt`` 安装，想啥呢，没网啊；
-3) 使用 ``/etc/init.d/networking``，提示没有这个文件（怎么什么都没有）；
-4) 见得最多的是 ``/etc/network/interfaces``，cd 过去，哦吼，又没有这个文件夹；
-5) GPT 说从 Ubuntu 17 开始，``/etc/network/interfaces`` 变成了 netplan，比较了下故障状态下和正常状态下的配置，发现 ``/etc/netplan`` 下多了个 yaml 文件，于是删除了多余的 yaml 文件，只留下了 ``50-cloud-init.yaml``，不过还是不行，但这个更改还是做了吧，毕竟和以前正常状态下的保持一致一般没错；
-6) 设置默认网关，主要是笔者在当前阶段执行 ``ifconfig`` 连 eth0 都没有，所以执行 ``route add default gw`` 自然失败，但这最后助攻了一手。
+1. 修改 ``/etc/sysconfig/network-script`` 下的配置文件，发现 cd 到这个目录时提示目录不存在；
+2. 使用 Network-Manager、networkmanger、nmcli、netset 等工具和 service XXX restart 等命令重启网络管理器，均提示不存在或服务未安装，检查发现正常状态下也没有装过这些东西，所以，尝试 ``apt`` 安装，想啥呢，没网啊；
+3. 使用 ``/etc/init.d/networking``，提示没有这个文件（怎么什么都没有）；
+4. 见得最多的是 ``/etc/network/interfaces``，cd 过去，哦吼，又没有这个文件夹；
+5. GPT 说从 Ubuntu 17 开始，``/etc/network/interfaces`` 变成了 netplan，比较了下故障状态下和正常状态下的配置，发现 ``/etc/netplan`` 下多了个 yaml 文件，于是删除了多余的 yaml 文件，只留下了 ``50-cloud-init.yaml``，不过还是不行，但这个更改还是做了吧，毕竟和以前正常状态下的保持一致一般没错；
+6. 设置默认网关，主要是笔者在当前阶段执行 ``ifconfig`` 连 eth0 都没有，所以执行 ``route add default gw`` 自然失败，但这最后助攻了一手。
 ### (三）从 ifconfig 执行
 既然没有 eth0，那就执行 
 ``ipconfig eth0 up``。启动 eth0 网卡后，再次执行 ``ifconfig``，有 eth0 了，但是没有 inet，显示如下。

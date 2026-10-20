@@ -1,11 +1,11 @@
 #### Cut the Rope save migration guide for Android
 
-This guide provides instructions on migrating local save data for **Cut the Rope Free** and **Cut the Rope 2** on the Android platform. 
+This guide provides instructions on migrating local save data for **Cut the Rope Free**, **Cut the Rope 2**, and **Cut the Rope Time Travel** on the Android platform. 
 It is only applicable to restoring game data owned by the player or that has been authorized for manipulation. 
 
 ##### 1. Purpose and preparation
 
-Although **Cut the Rope Free** and **Cut the Rope 2** on Android provide cloud-sync-related features and can integrate with Google Play Games, 
+Although **Cut the Rope Free**, **Cut the Rope 2**, and **Cut the Rope Time Travel** on Android provide cloud-sync-related features and can integrate with Google Play Games, 
 testing has shown that the relevant save data cannot be uploaded to or restored from either service successfully. 
 Users may therefore still need to perform a complete local data migration when replacing a device. 
 
@@ -31,14 +31,14 @@ In some circumstances, however, a player may uninstall and reinstall the applica
 
 ##### 2.2 Migration between devices
 
-The following procedure applies to the migration of local save data for both **Cut the Rope Free** and **Cut the Rope 2** between devices. 
+The following procedure applies to the migration of local save data for **Cut the Rope Free**, **Cut the Rope 2**, and **Cut the Rope Time Travel** between devices. 
 
 1. Force-stop the game on the source device. Use Swift Backup or another backup-and-restore utility capable of cross-device restoration to back up the application and its data; external data does not need to be included. Alternatively, use MT Manager to extract the installation package and compress all directories and files under ``/data/user/${user}/${package}/``. 
 2. Record the SSAID visible to ``${package}`` on the source device and retain the original preferences XML as evidence of the intended protected counts. 
 3. Install the same compatible version of the game on the destination device by restoring it with the backup utility, installing it through MT Manager, or obtaining it from Google Play (not recommended). Do not begin normal play. 
 4. Force-stop the destination installation, then restore or extract the complete source package data into the destination package directory. 
 5. Correct the permissions of all copied files as described in section 2.1, and set their UID and GID to those assigned to ``${package}`` on the destination device. 
-6. If the game is opened at this stage, level progress will normally remain intact while the protected counts are reset to zero. Recalculate the protected-count hashes in ``/data/user/${user}/com.zeptolab.ctr.ads/shared_prefs/CtrApp.xml`` for Cut the Rope Free or ``/data/user/${user}/com.zeptolab.ctr2.f2p.google/shared_prefs/CTR2.xml`` for Cut the Rope 2. 
+6. If the game is opened at this stage, level progress will normally remain intact while the protected counts are reset to zero. Recalculate the protected-count hashes in ``/data/user/${user}/com.zeptolab.ctr.ads/shared_prefs/CtrApp.xml`` for Cut the Rope Free, ``/data/user/${user}/com.zeptolab.ctr2.f2p.google/shared_prefs/CTR2.xml`` for Cut the Rope 2, or ``/data/user/${user}/com.zeptolab.timetravel.free.google/shared_prefs/TIMETRAVEL.xml`` for Cut the Rope Time Travel. 
 7. After making the changes, use MT Manager or another text editor to inspect the relevant XML manually and verify that every intended count has a corresponding new hash. 
 8. Start the game and verify both the level progress and the protected item counts. 
 
@@ -104,11 +104,12 @@ For example, if the destination SSAID is ``0123456789abcdef`` and the intended c
 0123456789abcdefAngryCats50
 ```
 
-For coins, changing only ``PREFS_COINS_COUNT`` is insufficient. ``PREFS_COINS_COUNT_HASH`` must be recalculated from the same count and the SSAID actually visible to the destination installation. The same rule applies to the other protected counts. 
+For coins, changing only ``PREFS_COINS_COUNT`` is insufficient. ``PREFS_COINS_COUNT_HASH`` must be recalculated from the same count and the SSAID actually visible to the destination installation. 
+Otherwise, the protected count will be reset to 0. The same rule applies to the other protected counts. 
 
 ##### 3.4 Recovery utility
 
-The accompanying [``ctr.cpp``](https://github.com/LRFP-Team/Bypasser/blob/main/cpp/ctr.cpp) implements the calculation above. 
+The accompanying [``ctr.cpp``](https://github.com/LRFP-Team/Bypasser/blob/main/cpp/ctr.cpp) implements the integrity value calculation above. 
 After compiling it for the appropriate architecture with Android NDK ``clang++``, push the resulting binary to the device and run it with root privileges, preferably through MT Manager or Termux. 
 The utility can locate ``CtrApp.xml`` automatically, obtain the current SSAID, correct protected-count integrity values, change the SSAID, and set protected counts to specified values. 
 
@@ -123,13 +124,22 @@ The Google free edition uses the package name ``com.zeptolab.ctr2.f2p.google``. 
 
 | Protected count | Count field | Integrity-value field | Logical key used in the hash |
 | - | - | - | - |
-| Coins | ``com.zeptolab.ctr2.f2p.coins`` | ``com.zeptolab.ctr2.f2p.coins_HASH`` | ``f2p.coins`` |
-| Free coins | ``com.zeptolab.ctr2.f2p.coins_free`` | ``com.zeptolab.ctr2.f2p.coins_free_HASH`` | ``f2p.coins_free`` |
+| Balloons | ``com.zeptolab.ctr2.f2p.balloons`` | ``com.zeptolab.ctr2.f2p.balloons_HASH`` | ``com.zeptolab.ctr2.f2p.balloons`` |
+| Bombs | ``com.zeptolab.ctr2.f2p.bombs`` | ``com.zeptolab.ctr2.f2p.bombs_HASH`` | ``com.zeptolab.ctr2.f2p.bombs`` |
+| Coins | ``com.zeptolab.ctr2.f2p.coins`` | ``com.zeptolab.ctr2.f2p.coins_HASH`` | ``com.zeptolab.ctr2.f2p.coins`` |
+| Free coins | ``com.zeptolab.ctr2.f2p.coins_free`` | ``com.zeptolab.ctr2.f2p.coins_free_HASH`` | ``com.zeptolab.ctr2.f2p.coins_free`` |
+| Hints | ``com.zeptolab.ctr2.f2p.hints`` | ``com.zeptolab.ctr2.f2p.hints_HASH`` | ``com.zeptolab.ctr2.f2p.hints`` |
+| Teleports | ``com.zeptolab.ctr2.f2p.teleports`` | ``com.zeptolab.ctr2.f2p.teleports_HASH`` | ``com.zeptolab.ctr2.f2p.teleports`` |
 | Unlimited coins | ``com.zeptolab.ctr2.f2p.coins_unlim`` | ``com.zeptolab.ctr2.f2p.coins_unlim_HASH`` | ``f2p.coins_unlim`` |
+
+Except for unlimited coins, each protected count is also represented by ``_BOUGHT``, ``_EARNED_FOR_FREE``, and ``_USED`` fields. The base count must agree with ``current = bought + earned_for_free - used``. When changing a protected count, reconcile these fields as well as the integrity value. 
 
 ##### 4.2 Integrity value calculation
 
-**Cut the Rope 2** uses the same general design as the first game, but with a different field-specific construction. Let ``N`` be the base-10 representation of the count, and let ``K`` be the logical key shown in the table above. The integrity value is calculated as follows. 
+**Cut the Rope 2** uses the same general design as the first game, but with a different field-specific construction. 
+Let ``N`` be the base-10 representation of the count, and let ``K`` be the logical key shown in the table above. 
+For ordinary protected counts, ``K`` is the complete preferences key, including the ``com.zeptolab.ctr2.`` prefix, that is, ``com.zeptolab.ctr2.f2p.coins_unlim``. 
+The count of the unlimited coins is the sole exception, which uses ``f2p.coins_unlim``. The integrity value is calculated as follows. 
 
 ```text
 MD5(N + "!don'thackthis!" + K + "!" + N + "!" + SSAID + "!ctr2.")
@@ -138,23 +148,75 @@ MD5(N + "!don'thackthis!" + K + "!" + N + "!" + SSAID + "!ctr2.")
 For ordinary coins with a count of ``50`` and an SSAID of ``0123456789abcdef``, the exact MD5 input is as follows. 
 
 ```text
-50!don'thackthis!f2p.coins!50!0123456789abcdef!ctr2.
+50!don'thackthis!com.zeptolab.ctr2.f2p.coins!50!0123456789abcdef!ctr2.
 ```
 
 The count occurs twice in the input, and the logical key also participates in the digest. 
 Consequently, even when the numerical values are identical, a valid integrity value for ordinary coins cannot be used for free coins or unlimited coins. 
 As with the first game, copying ``CTR2.xml`` to a device with a different SSAID invalidates the original integrity values and may cause the protected counts to be reset. 
 
+Static comparison of versions **1.46.0** and **1.47.2**, followed by an offline device test, confirms that both versions use the same format template and source ``K`` from the protected field object. The previously documented shortened keys for ordinary fields were therefore incorrect; they were not introduced by a later game update. 
+
 ##### 4.3 Recovery utility
 
-The accompanying [``ctr2.cpp``](https://github.com/LRFP-Team/Bypasser/blob/main/cpp/ctr2.cpp) implements the Cut the Rope 2 calculation. 
+The accompanying [``ctr2.cpp``](https://github.com/LRFP-Team/Bypasser/blob/main/cpp/ctr2.cpp) implements the integrity value calculation above. 
 After compiling it for the appropriate architecture with Android NDK ``clang++``, push the resulting binary to the device and run it with root privileges, preferably through MT Manager or Termux. 
 The utility can locate ``CTR2.xml`` automatically, obtain the current SSAID, correct protected-count integrity values, change the SSAID, and set protected counts to specified values. 
+
+For example, the following command sets coins to ``100`` and hints to ``50``, reconciles every supported ``bought + earned - used`` equation, and updates the two affected integrity values. 
+
+```bash
+ctr2 -s coin 100 hint 50 -e all -u coin hint
+```
 
 Changing a system-level SSAID shared by all applications would affect other applications and is therefore not recommended. 
 Before using any write option, review the utility's help information with ``ctr2 --help`` and retain an untouched copy of ``CTR2.xml``. 
 
-##### 5. Appeal
+##### 5. Cut the Rope Time Travel
+
+##### 5.1 Relevant save data
+
+The Google free edition uses the package name ``com.zeptolab.timetravel.free.google``. For Android user ``0``, the relevant preferences file is normally located at ``/data/user/0/com.zeptolab.timetravel.free.google/shared_prefs/TIMETRAVEL.xml``. In version **1.20.0**, the protected item counts identified in this file are stored as follows. 
+
+| Protected count | Count field | Integrity-value field |
+| - | - | - |
+| Hints | ``PREFS_HINTS_COUNT`` | ``PREFS_HINTS_COUNT_HASH`` |
+| Superpowers | ``PREFS_SUPERPOWERS_COUNT`` | ``PREFS_SUPERPOWERS_COUNT_HASH`` |
+
+##### 5.2 Integrity value calculation
+
+**Cut the Rope Time Travel** follows the same general design as the other two games, but uses its own fixed strings. For both protected counts, let ``decimal_count`` be the ordinary base-10 representation of the count. The integrity value is calculated as follows. 
+
+```text
+MD5(SSAID + "ctr_tt_hd" + "_Shame" + " 0n You " + decimal_count)
+```
+
+The components are concatenated directly. The spaces before and after ``0n You`` are part of the input, and the first character is the digit zero rather than the letter O. The count contains no leading zeroes. The resulting digest is written as 32 lowercase hexadecimal characters. 
+
+For a count of ``50`` and an SSAID of ``0123456789abcdef``, the exact MD5 input is as follows. 
+
+```text
+0123456789abcdefctr_tt_hd_Shame 0n You 50
+```
+
+Static analysis of version **1.20.0** shows that the native code obtains the value through ``Device::getUDID()``, which ultimately calls ``Settings.Secure.getString(..., "android_id")``. 
+It then formats the SSAID, fixed strings, and count, converts the result to UTF-8, calculates MD5, and compares the lowercase hexadecimal digest with the value stored in the XML file. 
+Despite the native method name, the device-dependent component is therefore the application's SSAID. 
+
+The same construction is used for hints and superpowers. The field name does not participate in the digest. 
+Consequently, equal hint and superpower counts under the same SSAID produce equal integrity values, as also observed in the supplied save where both counts are zero. 
+Copying ``TIMETRAVEL.xml`` to an installation with a different SSAID invalidates both stored values and may cause both item counts to be reset. 
+
+##### 5.3 Recovery utility
+
+The accompanying [``ctrtt.cpp``](https://github.com/LRFP-Team/Bypasser/blob/main/cpp/ctrtt.cpp) implements the integrity value calculation above. 
+After compiling it for the appropriate architecture with Android NDK ``clang++``, push the resulting ``ctrtt`` binary to the device and run it with root privileges, preferably through MT Manager or Termux. 
+The utility can locate ``TIMETRAVEL.xml`` automatically, obtain the current SSAID, correct the integrity values for hints and superpowers, change the SSAID, and set either protected count to a specified value. 
+
+Changing a system-level SSAID shared by all applications would affect other applications and is therefore not recommended. 
+Before using any write option, review the utility's help information with ``ctrtt --help`` and retain an untouched copy of ``TIMETRAVEL.xml``. 
+
+##### 6. Appeal
 
 The game publisher should provide an appropriate and accessible method for ordinary users to migrate their save data. 
 
@@ -162,11 +224,11 @@ The game publisher should provide an appropriate and accessible method for ordin
 
 #### Android 版《割绳子》存档迁移指南
 
-本指南提供了 Android 平台 **Cut the Rope Free（割绳子免费版）**与 **Cut the Rope 2（割绳子 2）**本地存档的迁移方法，仅适用于恢复玩家本人所有的或已被授权操作的游戏数据。
+本指南提供了 Android 平台 **Cut the Rope Free（割绳子免费版）**、**Cut the Rope 2（割绳子 2）**与 **Cut the Rope Time Travel（割绳子：时光旅行）**本地存档的迁移方法，仅适用于恢复玩家本人所有的或已被授权操作的游戏数据。
 
 ##### 1. 动机及预备
 
-Android 平台 **Cut the Rope Free（割绳子免费版）**与 **Cut the Rope 2（割绳子 2）**虽在游戏内提供了云同步相关功能，并可与 Google Play 游戏服务联动，
+Android 平台 **Cut the Rope Free（割绳子免费版）**、**Cut the Rope 2（割绳子 2）**与 **Cut the Rope Time Travel（割绳子：时光旅行）**虽在游戏内提供了云同步相关功能，并可与 Google Play 游戏服务联动，
 但经测试，相关存档并不能通过任一服务成功上传至云端或从云端恢复。因此，用户在更换设备时，仍可能须手动执行完整的本地数据迁移。
 然而，迁移后通常会出现关卡进度正常而金币及提示等道具数量（以下统称受保护数量）被清 0 的现象，需要进一步操作才能完成正确的迁移，因而写下本教程。
 
@@ -185,14 +247,14 @@ Android 平台 **Cut the Rope Free（割绳子免费版）**与 **Cut the Rope 2
 
 ##### 2.2 跨设备迁移
 
-下列程序同时适用于 **Cut the Rope Free（割绳子免费版）**与 **Cut the Rope 2（割绳子 2）**本地存档的跨设备迁移。
+下列程序同时适用于 **Cut the Rope Free（割绳子免费版）**、**Cut the Rope 2（割绳子 2）**与 **Cut the Rope Time Travel（割绳子：时光旅行）**本地存档的跨设备迁移。
 
 1. 在源设备上强制停止游戏，使用 Swift Backup 等备份还原软件备份应用及数据（要求能够跨设备还原），无需备份外部数据，或使用 MT 管理器提取安装包，并全选 ``/data/user/${user}/${package}/`` 中的目录和文件进行压缩。
 2. 记录源设备上 ${package} 的 SSAID，并保留原始首选项 XML，作为预期数量的依据。
 3. 通过备份还原软件还原、MT 管理器安装或谷歌商店（不推荐）在目标设备上安装同一兼容版本的游戏，但不得开始正常游玩。
 4. 在目标设备上强制停止目标游戏，将源软件包的完整数据还原或解压到目标软件包目录。
 5. 将全部复制文件的权限修正（可参考 2.1），将 UID 与 GID 设置为目标设备上 ${package} 的 UID 与 GID。
-6. 此时打开游戏会发现游戏关卡进度正常而受保护数量被置 0 的现象，于是需要重算 ``/data/user/${user}/com.zeptolab.ctr.ads/shared_prefs/CtrApp.xml``（Cut the Rope Free）或 ``/data/user/${user}/com.zeptolab.ctr2.f2p.google/shared_prefs/CTR2.xml``（Cut the Rope 2）中受保护数量的哈希值。
+6. 此时打开游戏会发现游戏关卡进度正常而受保护数量被置 0 的现象，于是需要重算 ``/data/user/${user}/com.zeptolab.ctr.ads/shared_prefs/CtrApp.xml``（Cut the Rope Free）、``/data/user/${user}/com.zeptolab.ctr2.f2p.google/shared_prefs/CTR2.xml``（Cut the Rope 2）或 ``/data/user/${user}/com.zeptolab.timetravel.free.google/shared_prefs/TIMETRAVEL.xml``（Cut the Rope Time Travel）中受保护数量的哈希值。
 7. 修改完成后可以通过 MT 管理器手动打开上述 XML，确认每一项预期数量均有相应的新散列值。
 8. 启动并进入游戏，核验关卡进度和受保护道具数量。
 
@@ -247,12 +309,12 @@ MD5(SSAID + "AngryCats" + decimal_count)
 0123456789abcdefAngryCats50
 ```
 
-也就是说，以金币为例，仅修改 ``PREFS_COINS_COUNT`` 并不能使数据生效，必须使用相同的数量和目标安装实际可见的 SSAID，重新计算 ``PREFS_COINS_COUNT_HASH``，其余受保护数量类似。
+也就是说，以金币为例，仅修改 ``PREFS_COINS_COUNT`` 并不能使数据生效，必须使用相同的数量和目标安装实际可见的 SSAID，重新计算 ``PREFS_COINS_COUNT_HASH``，否则，受保护数量将会被重置为 0，其余受保护数量类似。
 
 ##### 3.4 恢复工具
 
-配套的 [``ctr.cpp``](https://github.com/LRFP-Team/Bypasser/blob/main/cpp/ctr.cpp) 已经实现上述计算方法。
-使用 Android NDK 对应架构的 ``clang++`` 编译为二进制文件后，可将所得二进制文件推送至设备并以 root 权限运行（推荐通过 MT 管理器或 Termux 执行）。
+配套的 [``ctr.cpp``](https://github.com/LRFP-Team/Bypasser/blob/main/cpp/ctr.cpp) 已经实现上述完整性检验值的计算方法。
+使用 Android NDK 对应架构的 ``clang++`` 编译生成二进制文件 ``ctr`` 后，可将所得二进制文件推送至设备并以 root 权限运行（推荐通过 MT 管理器或 Termux 执行）。
 该工具能够自动定位 ``CtrApp.xml``、获取当前 SSAID、更正受保护数量的完整性检验值、修改 SSAID 及修改受保护数量为指定数量等。
 
 若系统所有应用共用一个系统层面的 SSAID，修改系统 SSAID 会对其它应用产生影响，因此不推荐。使用任何写入选项前，应当先查看该工具的帮助信息（``ctr --help``），并保留一份未经修改的 ``CtrApp.xml``。
@@ -265,13 +327,21 @@ MD5(SSAID + "AngryCats" + decimal_count)
 
 | 受保护数量 | 数量字段 | 完整性检验值字段 | 参与散列计算的逻辑键名 |
 | - | - | - | - |
-| 金币 | ``com.zeptolab.ctr2.f2p.coins`` | ``com.zeptolab.ctr2.f2p.coins_HASH`` | ``f2p.coins`` |
-| 免费金币 | ``com.zeptolab.ctr2.f2p.coins_free`` | ``com.zeptolab.ctr2.f2p.coins_free_HASH`` | ``f2p.coins_free`` |
+| 气球 | ``com.zeptolab.ctr2.f2p.balloons`` | ``com.zeptolab.ctr2.f2p.balloons_HASH`` | ``com.zeptolab.ctr2.f2p.balloons`` |
+| 炸弹 | ``com.zeptolab.ctr2.f2p.bombs`` | ``com.zeptolab.ctr2.f2p.bombs_HASH`` | ``com.zeptolab.ctr2.f2p.bombs`` |
+| 金币 | ``com.zeptolab.ctr2.f2p.coins`` | ``com.zeptolab.ctr2.f2p.coins_HASH`` | ``com.zeptolab.ctr2.f2p.coins`` |
+| 免费金币 | ``com.zeptolab.ctr2.f2p.coins_free`` | ``com.zeptolab.ctr2.f2p.coins_free_HASH`` | ``com.zeptolab.ctr2.f2p.coins_free`` |
+| 提示 | ``com.zeptolab.ctr2.f2p.hints`` | ``com.zeptolab.ctr2.f2p.hints_HASH`` | ``com.zeptolab.ctr2.f2p.hints`` |
+| 传送 | ``com.zeptolab.ctr2.f2p.teleports`` | ``com.zeptolab.ctr2.f2p.teleports_HASH`` | ``com.zeptolab.ctr2.f2p.teleports`` |
 | 无限金币 | ``com.zeptolab.ctr2.f2p.coins_unlim`` | ``com.zeptolab.ctr2.f2p.coins_unlim_HASH`` | ``f2p.coins_unlim`` |
+
+除无限金币外，每项受保护数量还对应 ``_BOUGHT``、``_EARNED_FOR_FREE`` 与 ``_USED`` 三个字段，基础数量须满足 ``current = bought + earned_for_free - used``。
+修改受保护数量时，除更新完整性检验值外，还须使上述等式字段相互一致。
 
 ##### 4.2 完整性校验值计算方法
 
-《Cut the Rope 2》与第一代采用相同的总体设计，但使用了另一种针对具体字段的计算结构。设 ``N`` 为数量的十进制表示，``K`` 为上表所列逻辑键名，则完整性校验值计算公式如下。
+《Cut the Rope 2》与第一代采用相同的总体设计，但使用了另一种针对具体字段的计算结构。设 ``N`` 为数量的十进制表示，``K`` 为上表所列逻辑键名。
+对于普通受保护数量，``K`` 是包含 ``com.zeptolab.ctr2.`` 前缀的完整首选项键名，即 ``com.zeptolab.ctr2.f2p.coins_unlim``。唯一的例外是无限金币，其使用 ``f2p.coins_unlim``。完整性校验值计算公式如下。
 
 ```text
 MD5(N + "!don'thackthis!" + K + "!" + N + "!" + SSAID + "!ctr2.")
@@ -280,20 +350,71 @@ MD5(N + "!don'thackthis!" + K + "!" + N + "!" + SSAID + "!ctr2.")
 例如，普通金币数量为 ``50``，SSAID 为 ``0123456789abcdef`` 时，MD5 的准确输入内容如下。
 
 ```text
-50!don'thackthis!f2p.coins!50!0123456789abcdef!ctr2.
+50!don'thackthis!com.zeptolab.ctr2.f2p.coins!50!0123456789abcdef!ctr2.
 ```
 
 数量在输入内容中出现两次，逻辑键名也参与摘要计算。因此，即使数值相同，普通金币的有效完整性检验值也不能用于免费金币或者无限金币。
 与第一代相同，将 ``CTR2.xml`` 复制到 SSAID 不同的设备后，原完整性检验值将不再有效，并可能导致受保护数量被重置。
 
+对 **1.46.0** 与 **1.47.2** 两个版本进行静态差分并在断网实机上验证后，可以确认两版使用相同的格式模板，且均从受保护字段对象中取得 ``K``。此前文档对普通字段使用短键名的说法属于分析错误，并非后续游戏更新引入的变化。
+
 ##### 4.3 恢复工具
 
-配套的 [``ctr2.cpp``](https://github.com/LRFP-Team/Bypasser/blob/main/cpp/ctr2.cpp) 已经实现上述计算方法。
-使用 Android NDK 对应架构的 ``clang++`` 编译为二进制文件后，可将所得二进制文件推送至设备并以 root 权限运行（推荐通过 MT 管理器或 Termux 执行）。
+配套的 [``ctr2.cpp``](https://github.com/LRFP-Team/Bypasser/blob/main/cpp/ctr2.cpp) 已经实现上述完整性检验值的计算方法。
+使用 Android NDK 对应架构的 ``clang++`` 编译生成二进制文件 ``ctr2`` 后，可将所得二进制文件推送至设备并以 root 权限运行（推荐通过 MT 管理器或 Termux 执行）。
 该工具能够自动定位 ``CTR2.xml``、获取当前 SSAID、更正受保护数量的完整性检验值、修改 SSAID 及修改受保护数量为指定数量等。
+
+例如，下列命令会将金币设为 ``100``、提示设为 ``50``，使全部受支持的 ``bought + earned - used`` 等式与当前数量一致，并更新上述两项的完整性检验值。
+
+```bash
+ctr2 -s coin 100 hint 50 -e all -u coin hint
+```
 
 若系统所有应用共用一个系统层面的 SSAID，修改系统 SSAID 会对其它应用产生影响，因此不推荐。使用任何写入选项前，应当先查看该工具的帮助信息（``ctr2 --help``），并保留一份未经修改的 ``CTR2.xml``。
 
-##### 5. 呼吁
+##### 5. Cut the Rope Time Travel（割绳子：时光旅行）
+
+##### 5.1 相关存档数据
+
+谷歌免费版的包名为 ``com.zeptolab.timetravel.free.google``。对于 Android 用户 ``0``，相关首选项文件通常位于 ``/data/user/0/com.zeptolab.timetravel.free.google/shared_prefs/TIMETRAVEL.xml``。在 **1.20.0** 版本中，于该文件内确认的受保护道具数量按照下表存储。
+
+| 受保护数量 | 数量字段 | 完整性检验值字段 |
+| - | - | - |
+| 提示（hint） | ``PREFS_HINTS_COUNT`` | ``PREFS_HINTS_COUNT_HASH`` |
+| 超级能力（superpower） | ``PREFS_SUPERPOWERS_COUNT`` | ``PREFS_SUPERPOWERS_COUNT_HASH`` |
+
+##### 5.2 完整性校验值计算方法
+
+**Cut the Rope Time Travel（割绳子：时光旅行）**与上述两款游戏采用相同的总体设计，但使用了自身专有的固定字符串。对于两项受保护数量，设 ``decimal_count`` 为数量的普通十进制表示，则完整性校验值计算公式如下。
+
+```text
+MD5(SSAID + "ctr_tt_hd" + "_Shame" + " 0n You " + decimal_count)
+```
+
+各部分直接连接。``0n You`` 前后的空格均属于输入内容，且首字符是数字 0，而非英文字母 O。数量不添加前导零，最终摘要以 32 个小写十六进制字符写入文件。
+
+例如，数量为 ``50``，SSAID 为 ``0123456789abcdef`` 时，MD5 的准确输入内容如下。
+
+```text
+0123456789abcdefctr_tt_hd_Shame 0n You 50
+```
+
+对 **1.20.0** 版本的静态分析表明，原生代码通过 ``Device::getUDID()`` 获取相应数值，而该调用最终执行 ``Settings.Secure.getString(..., "android_id")``。
+随后，程序将 SSAID、固定字符串与数量格式化为字符串，将其转换为 UTF-8，计算 MD5，并将所得小写十六进制摘要与 XML 文件中的存储值进行比较。
+因此，尽管原生方法名中包含 UDID，实际参与计算的设备相关要素仍是应用程序的 SSAID。
+
+提示与超能力共用上述计算结构，字段名不参与摘要计算。因此，在同一 SSAID 下，两项道具数量相同时会生成相同的完整性校验值。
+所提供存档中两者均为 0 且存储值相同，也与该结论一致。
+将 ``TIMETRAVEL.xml`` 复制到 SSAID 不同的安装环境后，两项原始存储值均会失效，并可能导致相应道具数量被重置。
+
+##### 5.3 恢复工具
+
+配套的 [``ctrtt.cpp``](https://github.com/LRFP-Team/Bypasser/blob/main/cpp/ctrtt.cpp) 已经实现上述完整性检验值的计算方法。
+使用 Android NDK 对应架构的 ``clang++`` 编译生成二进制文件 ``ctrtt`` 后，可将所得二进制文件推送至设备并以 root 权限运行（推荐通过 MT 管理器或 Termux 执行）。
+该工具能够自动定位 ``TIMETRAVEL.xml``、获取当前 SSAID、更正提示与超级能力的完整性检验值、修改 SSAID，以及将任一受保护数量修改为指定值。
+
+若系统所有应用共用一个系统层面的 SSAID，修改系统 SSAID 会对其它应用产生影响，因此不推荐。使用任何写入选项前，应当先查看该工具的帮助信息（``ctrtt --help``），并保留一份未经修改的 ``TIMETRAVEL.xml``。
+
+##### 6. 呼吁
 
 希望官方应当提供合适的方式供普通用户进行游戏存档迁移。
